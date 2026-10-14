@@ -13,8 +13,7 @@
   --van-success-color: #2f855a;
   --van-danger-color: #c0504a;
   --van-warning-color: #9a6b2f;
-  /* 柔和暖调米白：降低冷灰感与卡片间对比，长时间看更护眼 */
-  --app-bg: #f7f6f3;
+  --app-bg: #f4f6f5;
 }
 
 * {
