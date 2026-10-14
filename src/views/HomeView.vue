@@ -106,7 +106,7 @@ function goQuestion(id: string) {
   gap: 6px;
   padding: 5px 10px 5px 5px;
   border-radius: 999px;
-  background: #fff;
+  background: var(--card-bg);
   box-shadow: 0 1px 6px rgba(100, 101, 102, 0.08);
   max-width: 55%;
 }
@@ -140,7 +140,7 @@ function goQuestion(id: string) {
 }
 
 .stat {
-  background: #fff;
+  background: var(--card-bg);
   border-radius: 12px;
   padding: 16px;
   box-shadow: 0 1px 6px rgba(100, 101, 102, 0.08);

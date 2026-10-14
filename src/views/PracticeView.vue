@@ -185,7 +185,7 @@ function next() {
 }
 
 .opts {
-  background: #fff;
+  background: var(--card-bg);
   border-radius: 12px;
   overflow: hidden;
 }
@@ -228,7 +228,7 @@ function next() {
   margin-top: 16px;
   border-radius: 12px;
   padding: 14px;
-  background: #fff;
+  background: var(--card-bg);
 }
 
 .feedback--ok {

@@ -13,7 +13,9 @@
   --van-success-color: #2f855a;
   --van-danger-color: #c0504a;
   --van-warning-color: #9a6b2f;
-  --app-bg: #f4f6f5;
+  /* 背景：暖调米白，整体更柔和 */
+  --app-bg: #f7f4ee;
+  --card-bg: #fffdfa;
 }
 
 * {
@@ -69,7 +71,7 @@ a {
 }
 
 .card {
-  background: #fff;
+  background: var(--card-bg);
   border-radius: 12px;
   padding: 14px;
   box-shadow: 0 1px 6px rgba(100, 101, 102, 0.08);

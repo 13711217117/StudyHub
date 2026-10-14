@@ -121,7 +121,7 @@ async function logout() {
 }
 
 .stat {
-  background: #fff;
+  background: var(--card-bg);
   border-radius: 12px;
   padding: 16px;
   box-shadow: 0 1px 6px rgba(100, 101, 102, 0.08);
