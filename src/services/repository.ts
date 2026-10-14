@@ -27,10 +27,20 @@ export interface Repository {
 /** localStorage 的存储键，带版本号便于日后迁移 */
 export const STORAGE_KEY = 'studyhub:v1'
 
+/** 某个账号专属的数据命名空间 key，用于账号间数据隔离 */
+export function accountStorageKey(accountId: string): string {
+  return `studyhub:data:${accountId}`
+}
+
 export class LocalRepository implements Repository {
-  private readonly key: string
+  private key: string
 
   constructor(key: string = STORAGE_KEY) {
+    this.key = key
+  }
+
+  /** 切换数据命名空间（登录 / 切换账号时调用） */
+  setKey(key: string): void {
     this.key = key
   }
 
@@ -53,5 +63,5 @@ export class LocalRepository implements Repository {
   }
 }
 
-/** 默认存储实现；接入云端时替换为对应实现即可 */
-export const repository: Repository = new LocalRepository()
+/** 默认存储实现（本地 localStorage）；接入云端时替换为对应实现即可 */
+export const repository = new LocalRepository()

@@ -4,9 +4,13 @@ import { useRouter } from 'vue-router'
 import { Button, Cell, CellGroup, Empty } from 'vant'
 import QuestionCard from '@/components/QuestionCard.vue'
 import { useStudyStore } from '@/stores/study'
+import { useAuthStore } from '@/stores/auth'
 
 const router = useRouter()
 const store = useStudyStore()
+const auth = useAuthStore()
+
+const authName = computed(() => auth.current?.username ?? '账号')
 
 const dueList = computed(() => store.dueQuestions.slice(0, 5))
 
@@ -21,7 +25,13 @@ function goQuestion(id: string) {
 
 <template>
   <div class="page">
-    <h1 class="page-title">学习空间</h1>
+    <div class="page-head">
+      <h1 class="page-title">学习空间</h1>
+      <div class="user-chip" @click="router.push({ name: 'account' })">
+        <span class="user-chip__avatar">{{ authName.slice(0, 1).toUpperCase() }}</span>
+        <span class="user-chip__name">{{ authName }}</span>
+      </div>
+    </div>
 
     <div class="stats-grid">
       <div class="stat">
@@ -78,6 +88,51 @@ function goQuestion(id: string) {
 </template>
 
 <style scoped>
+.page-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 4px;
+}
+
+.page-head .page-title {
+  margin: 4px 0;
+}
+
+.user-chip {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  padding: 5px 10px 5px 5px;
+  border-radius: 999px;
+  background: #fff;
+  box-shadow: 0 1px 6px rgba(100, 101, 102, 0.08);
+  max-width: 55%;
+}
+
+.user-chip__avatar {
+  width: 24px;
+  height: 24px;
+  border-radius: 50%;
+  background: var(--brand-color-light);
+  color: var(--brand-color-dark);
+  font-size: 12px;
+  font-weight: 700;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+}
+
+.user-chip__name {
+  font-size: 13px;
+  color: #323233;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
 .stats-grid {
   display: grid;
   grid-template-columns: repeat(2, 1fr);

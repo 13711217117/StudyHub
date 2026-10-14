@@ -192,6 +192,17 @@ export const useStudyStore = defineStore('study', {
   },
 
   actions: {
+    /** 清空内存状态（切换账号 / 退出登录时调用），下次 init 会按新命名空间重新加载 */
+    reset(): void {
+      this.subjects = []
+      this.questions = []
+      this.states = {}
+      this.records = []
+      this.sessions = []
+      this.current = null
+      this.ready = false
+    },
+
     /** 首次启动初始化：本地为空则写入种子数据 */
     async init(): Promise<void> {
       if (this.ready) return

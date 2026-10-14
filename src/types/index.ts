@@ -4,6 +4,15 @@ export interface Subject {
   name: string
 }
 
+/** 账号（本地账号系统） */
+export interface Account {
+  id: string
+  username: string
+  /** 口令散列（仅本地校验用，非安全用途） */
+  passwordHash: string
+  createdAt: number
+}
+
 /** 题目类型：单选 / 多选 / 判断 */
 export type QuestionType = 'single' | 'multiple' | 'judge'
 
