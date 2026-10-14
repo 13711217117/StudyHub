@@ -1,10 +1,19 @@
 :root {
-  /* 品牌主色（绿色系），覆盖 Vant 主题变量 */
-  --brand-color: #0fdc78;
-  --brand-color-dark: #0aa85c;
-  --brand-color-light: #e7fbf1;
-  --van-primary-color: #0fdc78;
-  --app-bg: #f5f7f9;
+  /* 品牌主色（柔和自然绿）：降低饱和度与明度，避免荧光绿刺眼 / 对比过强 */
+  --brand-color: #2f855a;
+  --brand-color-dark: #276749;
+  --brand-color-light: #eaf4ee;
+  /* 语义色（同样收敛，避免高饱和） */
+  --danger-color: #c0504a;
+  --danger-bg: #fbeceb;
+  --warning-color: #9a6b2f;
+  --info-color: #4f7099;
+  /* 覆盖 Vant 主题变量 */
+  --van-primary-color: #2f855a;
+  --van-success-color: #2f855a;
+  --van-danger-color: #c0504a;
+  --van-warning-color: #9a6b2f;
+  --app-bg: #f4f6f5;
 }
 
 * {

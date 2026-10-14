@@ -118,24 +118,24 @@ function level(count: number): string {
   width: 12px;
   height: 12px;
   border-radius: 2px;
-  background: #ebedf0;
+  background: #e6e8e7;
 }
 
-/* 品牌绿色系深浅 */
+/* 品牌绿色系深浅（收敛为柔和的自然绿梯度，避免荧光感） */
 .l0 {
-  background: #ebedf0;
+  background: #e6e8e7;
 }
 .l1 {
-  background: #9be9c1;
+  background: #cfe6da;
 }
 .l2 {
-  background: #4fd693;
+  background: #9dcbb2;
 }
 .l3 {
-  background: #0fdc78;
+  background: #64a985;
 }
 .l4 {
-  background: #0a9e57;
+  background: #2f855a;
 }
 
 .legend {

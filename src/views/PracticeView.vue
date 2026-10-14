@@ -98,7 +98,7 @@ function next() {
 <template>
   <div class="page page--fullscreen practice">
     <NavBar :title="`第 ${index + 1}/${total} 题`" left-arrow @click-left="router.back()" />
-    <Progress :percentage="progress" :show-pivot="false" color="#0FDC78" />
+    <Progress :percentage="progress" :show-pivot="false" color="#2f855a" />
 
     <template v-if="current">
       <div class="qbody">
@@ -216,12 +216,12 @@ function next() {
 }
 
 .opts :deep(.opt--wrong) {
-  background: #fdeded;
+  background: var(--danger-bg);
 }
 
 .opts :deep(.opt--wrong .van-radio__label),
 .opts :deep(.opt--wrong .van-checkbox__label) {
-  color: #ee4d2d;
+  color: var(--danger-color);
 }
 
 .feedback {
@@ -236,7 +236,7 @@ function next() {
 }
 
 .feedback--bad {
-  border-left: 4px solid #ee4d2d;
+  border-left: 4px solid var(--danger-color);
 }
 
 .feedback__title {
@@ -250,7 +250,7 @@ function next() {
 }
 
 .feedback--bad .feedback__title {
-  color: #ee4d2d;
+  color: var(--danger-color);
 }
 
 .feedback__answer {

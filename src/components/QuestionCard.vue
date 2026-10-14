@@ -29,11 +29,11 @@ const typeLabel = computed(() => {
 const typeColor = computed(() => {
   switch (props.question.type) {
     case 'single':
-      return '#0fdc78'
+      return '#276749'
     case 'multiple':
-      return '#ff9f43'
+      return '#9a6b2f'
     default:
-      return '#3b82f6'
+      return '#4f7099'
   }
 })
 
@@ -43,9 +43,7 @@ const difficultyText = computed(() => '★'.repeat(props.question.difficulty))
 <template>
   <div class="qcard card" @click="$emit('click')">
     <div class="qcard__head">
-      <Tag :color="typeColor" text-color="#fff" plain>
-        <span :style="{ color: typeColor }">{{ typeLabel }}</span>
-      </Tag>
+      <Tag plain :color="typeColor">{{ typeLabel }}</Tag>
       <span v-if="showDifficulty" class="qcard__difficulty">{{ difficultyText }}</span>
       <span v-if="meta" class="qcard__meta">{{ meta }}</span>
     </div>
@@ -70,14 +68,14 @@ const difficultyText = computed(() => '★'.repeat(props.question.difficulty))
 }
 
 .qcard__difficulty {
-  color: #f7b500;
+  color: var(--warning-color);
   font-size: 12px;
   letter-spacing: 1px;
 }
 
 .qcard__meta {
   margin-left: auto;
-  color: #ee4d2d;
+  color: var(--danger-color);
   font-size: 12px;
   font-weight: 600;
 }
