@@ -9,7 +9,7 @@ import type {
   Subject
 } from '@/types'
 import { repository } from '@/services/repository'
-import { createSeedData } from '@/data/seed'
+import { createSeedData, DATA_VERSION } from '@/data/seed'
 
 const DAY = 24 * 60 * 60 * 1000
 
@@ -196,14 +196,21 @@ export const useStudyStore = defineStore('study', {
     async init(): Promise<void> {
       if (this.ready) return
       const data = await repository.load()
-      if (data && Array.isArray(data.questions) && data.questions.length > 0) {
-        this.subjects = data.subjects ?? []
-        this.questions = data.questions
+      const isUsable =
+        !!data &&
+        data.version === DATA_VERSION &&
+        Array.isArray(data.questions) &&
+        data.questions.length > 0
+
+      if (isUsable) {
+        this.subjects = data!.subjects ?? []
+        this.questions = data!.questions
         this.states = {}
-        for (const s of data.states ?? []) this.states[s.questionId] = s
-        this.records = data.records ?? []
-        this.sessions = data.sessions ?? []
+        for (const s of data!.states ?? []) this.states[s.questionId] = s
+        this.records = data!.records ?? []
+        this.sessions = data!.sessions ?? []
       } else {
+        // 本地为空，或内置题库版本升级：用最新种子数据覆盖，保证题目更新
         const seed = createSeedData()
         this.subjects = seed.subjects
         this.questions = seed.questions
@@ -225,7 +232,7 @@ export const useStudyStore = defineStore('study', {
     /** 把当前内存数据持久化到 Repository */
     async persist(): Promise<void> {
       const data: StudyData = {
-        version: 1,
+        version: DATA_VERSION,
         subjects: this.subjects,
         questions: this.questions,
         states: Object.values(this.states),

@@ -71,7 +71,7 @@ function goQuestion(id: string) {
         :title="s.name"
         :label="`${store.questions.filter((q) => q.subjectId === s.id).length} 道题`"
         is-link
-        @click="router.push({ name: 'practice', query: { mode: 'order', subjectId: s.id } })"
+        @click="router.push({ name: 'subject', params: { subjectId: s.id } })"
       />
     </CellGroup>
   </div>

@@ -45,7 +45,8 @@ function buildSession() {
   const idsParam = route.query.ids
   const questionIds = typeof idsParam === 'string' && idsParam ? idsParam.split(',') : undefined
   const subjectId = typeof route.query.subjectId === 'string' ? route.query.subjectId : undefined
-  store.startSession(mode.value, { subjectId, questionIds })
+  const chapter = typeof route.query.chapter === 'string' ? route.query.chapter : undefined
+  store.startSession(mode.value, { subjectId, chapter, questionIds })
   resetLocal()
 }
 

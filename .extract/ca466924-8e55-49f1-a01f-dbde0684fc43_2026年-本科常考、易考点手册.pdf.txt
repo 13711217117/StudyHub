@@ -1,0 +1,2809 @@
+
+===== [page 1] =====
+【专升本】
+常考、易考点手册
+目录
+英语..............第 1 页
+高等数学..........第 36 页
+政治..............第 63 页
+
+===== [page 2] =====
+【专升本】
+常考、易考点手册
+英语
+第 1 页
+
+===== [page 3] =====
+考试大纲
+题型 分值 数量 总分
+语音 1 5 5
+词汇 语法 1 15 15
+完形填空 2 15 30
+阅读理解 3 20 60
+对话 3 5 15
+作文 25 1 25
+总计 —— 61 150
+第 2 页
+
+===== [page 4] =====
+目录
+第一部分 语 音
+第一章 英语音素……………………………………(4)
+第二章 音节…………………………………………(4)
+第三章 拼读规则……………………………………(5)
+第二部分 词 汇
+构词法 ………………………………………………(6)
+第三部分 语法
+第一章 名词…………………………………………(8)
+第二章 冠词…………………………………………(10)
+第三章 代词…………………………………………(11)
+第四章 数词…………………………………………(14)
+第五章 形容词与副词………………………………(15)
+第六章 介词…………………………………………(17)
+第七章 动词…………………………………………(18)
+第八章 简单句、并列句、复合句…………………(29)
+第九章 强调和倒装…………………………………(33)
+第 3 页
+
+===== [page 5] =====
+第一部分 语音
+第一章 英语音素
+英语共有48个音素，其中元音音素20个、辅音音素28个。
+记录音素的符号叫做音标，也称国际音标，用来标记英语单词的读音。
+一、元音
+发音时声带振动而气流不受阻碍的是元音，可以分为单元音和双元音。
+1.单元音
+单元音依发音时舌面隆起部分位置的前后分为前元音、中元音和后元音：
+(1)前元音：英语共有四个前元音，即[i:][ɪ][e][æ]。
+(2)中元音：英语共有三个中元音，即[ɜ:][ə][Λ]。
+(3)后元音：英语共有五个后元音，即[u:][ʊ][ɔ:][ɒ][ɑ:]。
+2.双元音
+(1)合口双元音：其第二组成部分是[ɪ]或[ʊ]，即[eɪ][aɪ][ɔɪ][aʊ][əʊ]。
+(2)集中双元音：其第二组成部分是[ə]，即[ɪə][eə][ʊə]。
+二、辅音
+发音时，不论声带振动与否，凡是气流在通路上受到阻碍的都是辅音。
+辅音依发音时声带振动与否，分为清辅音和浊辅音；
+依形成阻碍的方式，分为爆破辅音、摩擦辅音、破擦辅音、鼻辅音等。
+第二章 音节
+音节通常由一个元音加上一个或几个辅音构成，单独元音也为一个音节。
+少数辅音，如[l][m][n]，后面无元音情况下也能与前面辅音构成一个音节。
+由一个音节构成的词，称为单音节词。例如：red
+由两个音节构成的词，称为双音节词。例如：easy
+由三个或三个以上音节构成的词，称为多音节词。例如:university
+一、重读音节和非重读音节
+双音节词和多音节词，一般至少有一个音节读得重而强，叫”重读音节”。
+重读音节要用重音符号[＇]标在音节的左上角。例如：begin[bɪ'gɪn]
+有时一个多音节词有两个重音，其中一个是“主要重音”，用[`]表示，
+另一个是“次要重音”，用[,]表示。例如：magazine[,mægə'zi:n]
+二、音节分类
+1.开音节
+(1)绝对开音节：以发音元音字母结尾的音节。例如：me[mi:]，no[nəʊ]。
+(2)相对开音节：以“辅音字母(r除外)+不发音的e”结尾的音节。
+例如：make[meɪk]. note[nəʊt]。
+在重读开音节中，元音字母按其字母名称发音。
+2.闭音节：以一个或几个辅音字母(r除外)结尾而中间只有一个元音字母
+的音节在重读闭音节中，元音字母读短元音，即a[æ]，e[e]，i[ɪ]，o[ɒ]，u[ʌ]。
+第 4 页
+
+===== [page 6] =====
+例如：map[mæp]
+3.r音节：元音字母+r的音节。在重读r音节中，元音字母发长音，在非
+重读的r音节中，元音字母发[ə]。 例如:grammar['græmə]，doctor['dɒktə]。
+第三章 拼读规则
+一、元音字母在重读开音节、闭音节和r音节中的读音规则
+1.元音字母在重读开音节中一般读字母的名称音
+字母a读作[eɪ]:blame[bleɪm] 字母e读作[i:]：be[bi:]
+字母i(y) 读作[aɪ]：five[faɪv] 字母o 读作[əʊ]:close[kləʊz]
+字母u读作[ju:]：huge[hjuː dʒ]
+2.元音字母在重读闭音节中的读音
+字母a读作[æ]；sad[sæd] 字母e读作[e]：bed[bed]
+字母i读作[ɪ]：bring[brɪŋ] 字母o读作[ɒ]：box[bɒks]
+字母u读作[ʌ]：cup[kʌp]
+3.元音字母在r音节中的读音
+ar读作[ɑ:]：cart[kɑ:t] er 读作[ɜ:]：her[hɜ:]
+ir 读作[ɜ:]：first[fɜ:st] or 读作[ɔ:]：formal[‘fɔ:məl]
+ur读作[ɜ:]：burn[bɜ:n]
+二、元音字母在非重读音节中的读音规则
+1.字母a读作[ə]或[ɪ]： capacity[kə'pæsɪti],cabbage['kæbɪdʒ]
+2.字母e读作[ə]或[ɪ]： golden['gəʊldən],decide[dɪ'saɪd]
+3.字母i(y)读作[ɪ]或[aɪ]： office['ɒfɪs],occupy['ɒkjupaɪ]
+4.字母o读作[ə]或[əʊ]： bottom[bɒtəm],photo['fəʊtəʊ]
+5.字母u读作[ə],[jʊ]或[ju:]：difficult['dɪfɪkəlt],attitude['ætɪtju:d]
+三、辅音字母在单词中的读音规则
+1.b读作[b]，但当b在词尾字母m前，则b不发音：
+book[bʊk],comb[kəʊm]
+2.c在元音字母a,o,u前读[k]，在元音字母e,i(y)前读[s]：
+cat[kæt],device[dɪ'vaɪs]
+3.g读作[g]，但在元音字母e,i(y)前读[dʒ]：
+egg[eg],huge[hju:dʒ]
+4.h读作[h]，但在部分单词词首或中间不发音：
+hair[heə],hour[aʊə]
+5.s读作[s]或[z]，其读法有下列四种情况：
+(1)s在词首，或s前面或后面是清辅音时，读作[s]:six[sɪks]。
+(2)s在两个元音字母之间，读作[z]：design[dɪ'zaɪn]。
+(3)s在元音字母和不发音字母e之间，在名词中常读[s]，
+第 5 页
+
+===== [page 7] =====
+在动词中常读[z]：case[keɪs],praise[preɪz]。
+(4)名词复数词尾-s(或-es)以及动词词尾-s(或-es)的读音规则是：
+在[p][t][k][f]等清辅音后，读[s]，如cups；
+在[s][z][ʃ][tʃ][dʒ]等辅音后，读[ɪz]，如glasses。
+6.x读作[ks]，但x后面是元音，而又是重读音节时，读[gz]：
+box[bɒks],exact[ig'zækt]
+第二部分 词汇
+构词法
+一、转化法(Conversion)
+不改变词的形状，只是使词由一个词类转化为另一个词类，使该词具有
+新的词义和作用。
+1.动词转化为名词:Letmehaveatry.
+2.名词转化为动词:Haveyoubookedyourticket?
+3.少部分形容词可以转化为动词:Thetrainsloweddowntohalfitsspeed.
+4.形容词转化为名词:Theyarecompetinginthefinal.
+二、合成法(Compounding)
+1. 合成形容词可以由以下几种形式构成
+形容词+名词+ed white-haired 白头发的
+形容词+现在分词 good-looking 好看的
+副词+现在分词 hard-working 勤劳的
+名词+过去分词 state-owned 国营的
+副词+过去分词 well-known 著名的
+2. 合成名词可以由以下几种形式构成
+名词+名词 bloodtest 验血
+形容词+名词 blackboard 黑板
+动词+名词 pickpocket 扒手
+名词+动名词 handwriting 书法
+3.合成动词和合成副词等
+Thefoodwillbeair-droppedtonight.
+这些食物将于今晚空投下去。(合成动词)
+第 6 页
+
+===== [page 8] =====
+Shegreetedthemhardheartedly.
+她热情地和他们打招呼。(合成副词)
+注意：合成词在书写时，有的连写，有的用连字符，但也有分开写的。
+如：birthday,reading-room,hometown.
+三、派生法(Derivation)
+派生法就是在一个词的词根(root)的前或后面加上某个词缀来产生新词。
+加在前面的词缀叫前缀(prefix)，加在后面的词缀叫后缀(suffix)。
+一般前缀只改词意不改词类；后缀不仅改变词义且转变为另一种词类。
+1.常用前缀
+anti-反对:antibody 抗体 auto-自动:autoalarm自动报警器
+bi-双的：bicentric两个中心的 counter-反:counteract 对抗
+re-再一次:review复习 fore-先的：forefather祖先
+pre-事先：preview 预习 inter-互相：interact相互作用
+2.常见否定前缀
+un-,im-,in-,il-,ir-,dis-,mis- 不
+unusual 不寻常的， impolite 不礼貌的，dislike 不喜欢，mistake 错误
+3.常用后缀
+(1)名词后缀
+①-an,-ant,-ar,-ee,-eer,-ent,-er,-ese,-ist,-ive,-man,-or等
+用于构成表示“人”的名词：
+liar 说谎者 American 美国人 employee雇员
+inhabitant 居民 Chinese 中国人
+②-age,-ance,-ence,-hood,-ic,-ics,-ing,-ion,-ism,-ment,-ness,-ry,-ship,
+-ty,-ure等用于构成行为、性质、状态等的抽象名词：
+courage 勇气 absence缺席 boyhood 童年
+(2)形容词后缀
+-able,-ible,-al,-an,-ant,-ent,-ar,-ary,-ed,-en,-ern,-ful,-cal,-ing,-ish,
+-ive,-less,-like,-ly,-ous,-y:
+acceptable可接受的 similar 类似的 imaginary 想象的
+(3)动词后缀
+-en,-fy,-ize,-ise:
+第 7 页
+
+===== [page 9] =====
+darken 使黑暗 classify 分类 apologize道歉 realise 实现
+(4)副词后缀
+-ly,-ward(s),-way(s),-wise:
+absolutely 完全地 upward(s)向上地 always总是 clockwise顺时针地
+第三部分 语法
+第一章 名词
+一、名词的复数形式
+可数名词大多都有单数和复数形式。表示一个人或事物用单数，表示一
+个以上的人或事物用复数。可数名词的复数形式主要分为规则的复数形式与
+不规则的复数形式两种。
+1.名词的规则复数形式
+(1)大多数名词在词尾直接加-s，在清辅音后发[s]音，在浊辅音和元音后
+发[z]音。 Mile—miles[maɪlz] desk—desks[desks]
+(2)以s,x,ch,sh结尾的单数名词后加-es，读作[ɪz]。class-classes[‘klɑː sɪz]
+(3)辅音字母加y结尾的单数名词，变“y”为“i”，再加-es，读作[ɪz]。
+factory--factories[‘fæktərɪz]
+(4)以“f”或“fe”结尾的单数名词变复数。
+①多数变“f”或“fe”为“v”，再加-es，读作[vz]。leaf-leaves[liː vz]
+②一部分直接加-s，读作[s]。 roof —roofs
+③个别词加-s或变“f”或“fe”为“v”再加-es都可以。
+handkerchief-handkerchiefs/handkerchieves
+(5)以字母“o”结尾的单数名词变复数。
+以“辅音+o”结尾的单数名词后加-es,读作[z]。hero--heroes['hɪərəʊz]
+②以“元音+o”结尾的单数名词后加-s，读作[z]。zoo—zoos[zuː z]
+③某些以“o”结尾的单数名词在词尾加-s或-es都可变为复数。
+volcano—volcanos/volcanoes
+④某些外来词，只在词尾加-s。 photo—photos
+2.名词的不规则复数形式
+(1)改变单数名词内部元音使其变为复数。
+man-men woman-women foot-feet tooth-teeth
+(2)在单数名词词尾加-ren或-en。child-children ox-oxen
+(3)复数形式与单数形式相同。
+sheep-sheepdeer-deerChinese-ChineseJapanese-Japanese
+第 8 页
+
+===== [page 10] =====
+(4)一些外来词仍保留其原来的名词复数形式。
+basis—bases thesis—theses crisis-crises
+3.合成名词的复数形式
+(1)如主体词为名词，将主体词改为复数。
+son-in-law-sons-in-law 女婿 grand-child--grand-children 孙儿,孙女
+(2)如没有主体名词，则在最后一个词后加复数词尾。
+go-between — go-betweens 中间人 grown-up — grown-ups 成年人
+(3)以 man和woman构成的合成名词，各个成分都要变为复数。
+woman-teacher—women-teachers man-doctor — men-doctors
+二、名词的所有格
+1.表示有生命者的名词一般在末尾加上’s构成所有格，作定语用。
+anhour'swork一小时的工作 apound'sweight一磅的重量
+2.表示无生命东西的名词一般与of构成短语表示所有关系
+thedooroftheroom房间的门
+3.双重所有格
+上面所讲的两种所有格的形式可以结合起来，构成双重所有格，即
+“of+名词所有格”.表示部分观念或感情色彩。
+(1)表示部分观念。比较：
+aportraitofMr.Brown's布朗先生画的或收藏的肖像中的一张
+aportraitofMr.Brown一张布朗先生本人的肖像
+(2)表示感情色彩。
+thislovelychildofyoursister's 你姐姐的这个可爱的孩子
+4.名词所有格所修饰的词的省略
+(1)名词所有格所修饰的词，如果前面已经提到，可以省略以免重复。
+(2)在表示店铺、某人的家时，名词所有格后面一般省略它所修饰的名词。
+theGreen's/Greens 格林家 thetailor's 裁缝铺
+5.指时间、距离、度量衡、价值、国家、城镇、团体、机构等无生命的名
+词，可以加's构成所有格。如：twoweeks’holiday 两周的假期
+三、名词在句中的用法
+名词在句子中可用作下列各种句子成分：
+1.作主语 Thisboxisveryheavy.这个盒子很重。
+注意：名词作主语时，要注意主谓关系的一致性。特别要注意下列情况：
+(1)表示“距离、时间、重量、面积、金额”等复数名词作主语时，其谓
+语动词通常用单数形式。 Onehundreddollarsisnotenough.100美元不够。
+(2)两个作主语的名词或代词由“either...or...”“neither...nor...”连接时，
+谓语动词应和最靠近它的名词或代词保持一致。
+EithersheorIamgoingtofetchsomechalk.不是她，就是我去拿些粉笔。
+第 9 页
+
+===== [page 11] =====
+(3)两个作主语用的名词或代词由“aswellas”连接时，谓语动词应和前
+一个名词或代词的人称和数保持一致。
+Heaswellashisbrothersisapartymember.他和他的兄弟们都是党员。
+2.作宾语
+(1)及物动词的宾语。 Sheiswritingaletter. 她正在写一封信。
+(2)介词的宾语。 Myparentsliveinthecountryside.我的父母住在乡下。
+3.作表语 MissLinisasecretary.林小姐是个秘书。
+4.作宾语补足语 EverybodycallshimUncleTom.大家都叫他汤姆叔叔。
+5.作定语
+(1)名词所有格作定语。 theearth'ssurface 地球的表面
+(2)一个名词修饰另一个名词。 acolorTV 一台彩色电视
+6.作状语(多限于表示时间、度量、价值等概念的名词)
+Sheworkslonghours.她一天工作很长时间。
+第二章 冠词
+一、不定冠词的基本用法:
+a用于辅音音素前，一般读作[ə]，而an则用于元音音素前，一般读做[ən]
+1.用在单数可数名词前表示“一，一个”
+2.表示一类人或物，指同类中的任何一个，a或an不必翻译。
+3.第一次提到某人或某物时，用不定冠词a或an，起介绍作用。
+4.不定冠词用于单数可数名词前表示身份、职业、尤其用在作表语或宾
+语补足语的名词前。
+注意：表示某职位在某时期内只有一人担任，或表示头衔，则不用冠词，
+Heiscaptainoftheteam. 他是球队队长。
+5.用于专有名词前，表示“一位叫……的人“。
+AZhangcalledyoujustnow.一位姓张的刚才给你打电话。
+6.不定冠词在表示数量、长度，时间等的计数单位名词前，表“每一(个)”。
+7.用于某些惯用短语中。 havearest 休息一下 haveacold 患感冒
+二、定冠词的基本用法
+1.表示特指的人或物。
+2.表示双方都知道的或心中明白的人或物。Shutthedoor.please.请关门。
+3.某人或某物第一次提到时用不定冠词，第二次提到时要用定冠词。
+Hesawahouseinthedistance.Jim'sparentslivedinthehouse.
+他看见远处有一所房子，吉姆的父母就住在那所房子里。
+4.用在世界上独一无二的名词前。如：thesun太阳，theearth地球。
+5.用在表示方向、方位的名词前。如：theeast东方，thewest西方，the
+south南方，thenorth 北方，theright 右边，theleft 左边。
+6.用在形容词最高级、序数词前。
+第 10 页
+
+===== [page 12] =====
+7.用在单数可数名词前表示一类人或物，强调整体、全体或任何一个。
+Theorangeisakindoffruit. 橘子是一种水果。
+8.用在乐器名词前。如：playthepiano 弹钢琴
+9.用在江河、海洋、湖泊、群岛、山脉的名称前。
+10.用在由普通名词和另外一些词构成的专有名词前。
+theGreatWall 长城 theUnitedNations 联合国
+11.用在某些形容词前，表示一类人或物或某种抽象概念。
+theold 老年人 thehappy 幸福的人
+12.用在姓氏的复数形式前，表示全家人或这一姓的夫妇二人。
+13.用在表示计算单位的名词前，含有“每，每一“的意思。
+Jimispaidbythehour.吉姆的工.资按小时付。
+14.用于“动词+人+介词+the+人体部位或衣着”中，用于该句型的动词常
+常是表示“打、抓、牵、拉、拍、踢”等之类的动词。
+如:hitsb.intheface,patsb.ontheshoulder,takesb.bythehand。
+15.用在逢十的复数数词前，表示年代，也指人的大约岁数。
+Thewarbrokeoutinhisforties.那场战争发生在40年代。
+16.某些惯用语 inthemorning 在上午 inthedistance 在远处
+三、零冠词
+1.复数可数名词表示泛指和不可数名词表示泛指时不用冠词。
+2.三餐、球类运动，娱乐名称、节日、星期、月份和日期前一般不用冠
+词，表季节的名词前用不用the意思没有区别：
+3.在学科、语言、称呼语、大部分疾病名称或表头衔的名词(作表语、同
+位语、补足语)前，不用冠词。
+4.在as，though引导的倒装分句中，名词前不用冠词。
+Childas/thoughTomis,youcan'tfoolhim.虽汤姆是个孩子，但你不能骗他。
+5.某些交通工具名称前不用冠词。
+bytrain 乘火车(=onatrain) byship乘船(=onaship)
+6.名词前已有作定语用的 this，that，whose，your，my，some，any，
+noeach，every 等代词时，不用冠词。
+7.一些固定短语中不用冠词。 athome 在家 inbed 在床上
+第三章 代词
+一、人称代词
+表示“我”“你”“他”“我们”“你们”“他们”等的词，叫做人称
+代词。人称代词有人称、数和格之分，第三人称还有性的区别。
+人称代词的用法如下：
+1.人称代词主格的用法
+(1)作主语。 Heisadoctor.他是一位医生。
+第 11 页
+
+===== [page 13] =====
+(2)作表语。 Oh,it'syou.噢，是你。
+口语习惯上不说It'sI(he,she等)，而说It'sme(him,her等)。
+2.人称代词宾格的用法
+(1)作及物动词的宾语。 I'llmeetyouhere.我将在此处接你。
+(2)作介词的宾语。 Readafterme.跟我读。
+二、物主代词
+物主代词有形容词性物主代词和名词性物主代词两种，用法如下：
+1.形容词性物主代词的用法
+形容词性物主代词只能用作定语，修饰名词。
+Maryisgoingtotheparkwithhermother.玛丽将和她的妈妈去公园。
+2.名词性物主代词的用法
+(1)作主语。 Mybookisonthedesk,andhersisonthechair.
+(2)作宾语。 Ididn'tborrowherpen；Iborrowedhis.
+(3)作表语。 Theblueshirtismine.那件蓝衬衣是我的。
+三、反身代词
+表示“……自己”概念的代词叫做反身代词，用法如下：
+1.作宾语。 Pleasehelpyourselftosometea.请自己用茶。
+2.作表语。 Sheisn'tquiteherselftoday.她今天有点儿不舒服。
+3.作名词或代词的同位语，用来加强语气，作“亲自，本人”解。
+Imyselfdidit.这件事是我做的。
+Ifixedthewindowmyself.这窗户是我自己安装的。
+四、指示代词
+指示代词有this,that,these,those,such,same,it，用法如下：
+1.指示代词 this,that,these,those 的用法
+(1)this/these一般用来指在时间或空间上较近的事物，that/those 则指在
+时间或空间上较远的事物，它们在句子中的用法相当于名词和形容词。
+(2)that 和those指前面提过的事物，this 和 these则指将要提到的事物。
+Iwascaughtinatrafficjam.That'swhyIwaslate.
+我遇到了塞车，那就是我迟到的原因。
+Thosearethequestionswearerequiredtoanswer.
+那些就是我们要回答的问题。
+注意:①有时为了避免重复，可用 that或 those 代替前面提过的人或事。
+TheclimateofTianjinisnotsogoodasthatofKunming.
+天津的气候不如昆明的好。(that代替climate)
+②有时 this 和that也可以作副词，在句子中作状语，表示程度。
+第 12 页
+
+===== [page 14] =====
+Theboyisaboutthistall.那个男孩大约有这么高。
+2.指示代词 such 和same 的用法
+such和same的单、复数的同形，在句中可作主语、宾语、表语和定语。
+注意：在same 之前一般须用定冠词the；such 作定语时，它所修饰的
+名词之前如有不定冠词a或an，这个不定冠词应放在such之后。
+五、疑问代词
+疑问代词有who,whom,whose,what,which等。
+疑问代词用于特殊疑问句中，一般在句首，可作主语,表语,定语,宾语。
+六、关系代词
+关系代词有who，whose，whom，that，which等，都用来引导定语从句。
+它们代表主句中为定语从句所修饰的那个名词或代词(即先行词)，用法如下：
+1.who,whom,whose 指人，在定语从句中分别作主语、宾语和定语。
+2.which指物，在定语从句中作主语或宾语。
+3.that既可以指人，也可以指物，在句子中作主语或宾语。
+注意：(1)关系代词whom在从句中作宾语时，在口语中常被who或that
+代替；关系代词 who(whom)，which,that 在从句中作宾语时可以省略，但作
+主语时则不能省略。
+(2)关系代词that在从句中作介词宾语时，介词不能放that前，只能放在
+从句末尾：而关系代词 whom,which 在从句中作介词宾语时，介词可以放在
+whom,which之前，也可以放在从句末尾。但含介词的短语动词一般不拆开。
+ThisisthehouseinwhichLuXunoncelived. 这就是鲁迅曾经住过的房子。
+ThisisthehousewhichLuXunoncelivedin.
+(介词in既可放在which之前，也可放在从句末尾)
+(3)关系代词that和which指物时，一般没区别，但是在形容词最高级、
+序数词和大部分不定代词(all,everything，nothing，little等)的后面，一般用that。
+itwasthebestfilm(that)Ieversaw.这是我所看过的最好的电影。
+七、不定代词
+1.little,alittle 和 few,afew
+little，alittle可用来代替或修饰不可数名词；few，afew用来代替或修饰
+可数名词。afew，alittle着重肯定意思，相当于汉语的“有几个”“有一点
+儿”；而few和little则着重否定意思，相当于汉语的“没几个”“没多少”。
+2.each,every 和 all
+each着重个别的含义；every着重于全体的含义；all意为“全体、所有”，
+用于三者或三者以上。all和each既可单独使用，也可后面接名词，还可后面
+接of短语；而every 后必须接名词，既不能单独使用也不能接 of 短语。
+3.one,other和 another
+one 的复数为ones，分别代替指人或物的单数名词和复数名词；other
+第 13 页
+
+===== [page 15] =====
+意思是两者中的“另一个”，复数形式为others，特指时要加定冠词；another
+意思是三者或三者中的“另一个，又一个”，前面不加冠词。
+4.both,either 和 neither
+both 意为“两者都”；either 意为“两个中的任何一个”；neither 意
+为“两者中没有一个” either,neither作主语，谓语动词用单数形式。
+5.合成不定代词的用法
+由 some,any,no,every 加上 body,one,thing构成的不定代词，相当于名
+词，不能作定语，且修饰语须放在它们的后面。
+everyone 与everyone，noone与none 的区分。
+everyone只用来指人；everyone既可指人，又可指物，还可跟 of 短语。
+noone指人；none既可指人，又可指物。在用于简略否定回答时，nobody
+和noone问答who问句，none 回答howmany或howmuch问句。
+八、it的用法
+1.it作代词
+(1)用作人称代词，代替上文提到的人或事物。
+Mypenismissing.Ican'tfinditanywhere.我的钢笔丢了，哪儿都找不到它。
+(2)用来代替指示代词 this,that。
+-Whoseumbrellaisthis? -It'smine. ——这是谁的伞? ——我的。
+(3)用作非人称代词，表示时间、日期、地点、温度、距离、环境等。
+It'stimeforthemeeting.该开会了。
+2.it作引导词
+(1)用作形式主语，代替不定式、v.-ing形式或名词性从句表示的真正主语。
+It'snousecryingoverspiltmilk.事已至此，难过也没用。
+(2)用作形式宾语，代替不定式，v.-ing形式或从句表示的真正宾语。
+在think,make,believe,consider,take,find,feel 等动词后跟复合宾语时，
+多用 it 作形式宾语。
+Ithinkitnousearguingwithhim.我认为和他讨论是没有用的。
+(3)it用于强调结构中。
+强调句的基本结构形式：itis/was+被强调部分+that/who+句子其他部分。
+Itwashimwho/thatyoushouldask.你应该问的人是他。
+第四章 数词
+一、基数词
+(1)基数词兼有名词和形容词作用，在句中可作主,宾,表,定,同位语。
+(2)基数词在表示确切的数字时，不能使用百、千、百万、十亿的复数形
+式；但是，当基数词表示不确切数字，如成百、成千上万，三三两两时，
+基数词则以复数形式出现。如：
+204twohundredandfour; thousandsof 成千上万
+(3)表示人的不确切岁数或年代，用in+one’s+几十的复数形式表示
+第 14 页
+
+===== [page 16] =====
+二、序数词的构成及其用法
+1.序数词的构成
+序数词一般以与之相应的基数词加词尾-th构成，也有特别的变化形式：
+(1)第一至第十九：除以下几个序数词外，都在基数词后加-th构成序数词。
+first(第一),second(第二),third(第三),fifth(第五)，eighth(第八)，ninth(第九)
+(2)整十以-ty结尾的基数词，将y变为i再加-eth构成相应的序数词。
+twentieth,seventieth,ninetieth
+(3)第二十一至第九十九之间的序数词，十位数用基数词，个位数用序数
+词，十位与个位间用连字符。eighty-fifth(85th) twenty-first(21st)
+(4)hundred，thousand，million,billion等基数词加上-th即构成序数词，前
+面加相关的基数词，“一”只可用one，不用a。
+(5)多位数序数词的后位数包含1-9时，后位数用序数词，前位数用基数
+词，中间出现零时，须用and连接。 three hundred and
+eighth(308th)
+(6)序数词的缩写形式由阿拉伯数字加上最后两个字母组成。
+1st,2nd,3rd,8th,50th,93rd,361st
+(7)名词在前，数字在后，该数字要用基数词。 Lesson8,BusNo.98
+2.序数词的用法
+序数词在句中可作主,宾,表,定、状语和同位语等。前面一般加定冠词the。
+注意：序数词前有时加不定冠词表示“再一”“又一”含义。
+ShallIaskyouasecondtime? 我还要问一次吗?
+三、分数词的构成
+1.分数词是以基数词和序数词合二为一构成的一种数词，基数词用以表
+示分子，序数词则表示分母，除分子是“1”的情况外，序数词都要用复
+数形式。1/5=onefifth 2/9=twoninths
+2.另外还有下面一些表示法。1/2=a(one)half 1/4=a(one)quarter
+3.比较复杂的分数词，分子、分母都用基数词，先说分子，后说分母，
+中间使用介词over/in/outof。12/27=thirteenover/in/outoftwenty-seven
+四、小数的用法
+小数点前的基数词与前面所讲的基数词读法相同，小数点读作point，
+小数点后的数字要一一读出。零读作 naught(英) 或 zero(美)。
+小数在句中主要用作定语。
+第五章 形容词与副词
+一、形容词
+形容词用来修饰名词，表示名词的属性，一般放在它所修饰的名词之前。
+1.形容词的用法
+第 15 页
+
+===== [page 17] =====
+(1)作定语。 Heisagoodstudent.他是个好学生。
+(2)作表语。 Theboxisveryheavy.这个盒子很重。
+(3)作宾语补足语。 Ihavegoteverythingready.我把一切都准备好了。
+2.形容词的位置
+(1)形容词通常放在它所修饰的名词前面。如果有两个或两个以上的形容
+词修饰一个名词，这些形容词的位置，关系最密切的最靠近被修饰的名词。
+→描述性的形容词→表示大小的形容词→表示形状的形容词
+→表示年龄或新旧的形容词→表示颜色的形容词→表示来源的形容词
+→表示材料的形容词→以动名词形式出现的形容词
+alargewildplant 一株很大的野生植物
+(2)形容词修饰some，any，every，no等不定代词时，通常放这些词后面。
+Isthereanythingimportantintoday'spaper? 今天报纸有什么重要消息?
+3.形容词的比较级用法
+(1)比较级结构。
+①表示A超过B:A+谓语+形容词比较级+than+B
+A computer is much more expensive than a bicycle.计算机比自行车贵得
+多。
+②表示A不如B：
+A+谓语的否定式+形容词比较级+than+B
+A+谓语+less+形容词原级+than+B
+A+谓语的否定式+so(as)+形容词原级+as+B..
+I think maths is less important than physics.= I don't think maths is more
+importantthanphysics. 我认为数学没有物理重要。
+Heisnotso/asstrongashisbrother.他没有他哥哥强壮。
+③表示A和B是同等程度：A+谓语+as+形容词原级+as+B
+Thiscoatisascheapasthatone.这件衣服同那件衣服一样便宜。
+④越…….越…….:the+ 比较级.….the+ 比较级….
+Themoreheeats,thefatterhegets. 他越吃越胖。
+⑤越来越……：比较级+and+比较级
+Thequestionsgetmoreandmoredifficult.问题越来越难。
+⑥两者中较……的一个：the+比较级(+of+the+two+名词)
+Heistheclevererofthetwo.他是这两个中比较聪明的。
+⑦倍数句型
+a.倍数+形容词(副词)比较级+than
+Ourroomistwicelargerthantheirs.我们的房间比他们的大两倍。
+b.倍数+as+形容词(副词)原级+as
+Thistableisthreetimesaslongasthatone.这张桌是那张桌的三倍长。
+c.倍数+the+名词(size,height,weight,length,width等)+of
+Thisriveristhreetimesthedepthofthatone.这条河是那条河的三倍深。
+第 16 页
+
+===== [page 18] =====
+d.倍数+as+many/much+名词+as
+We'veproducedtwiceasmuchcottonthisyearaswedidtenyearsago.
+今年我们生产的棉花比十年前生产的多了一倍。
+⑧形容词的比较级表示最高级的用法
+比较级(+...)+than+ever/never(+..)
+比较级+than+anyone/anything...
+比较级+than+anyother+单数可数名词
+比较级+than+theother+名词(单数或复数)
+(2)比较级的修饰语。
+①比较级前可用 a bit,alittle, rather,some(肯定句及请求建议的问句),
+any(否定句或疑问句中)表示“稍稍、一点”；用 much,far,agreat/good
+deal,alot,lots,agoodbit 等表示“……得多”。
+②half，倍数，以及分数或有关长度、时间、重量等表示确定程度的修饰
+语，通常放在比较级前，或as...as结构的第一个as前。
+Hehasgotthreetimesasmanybooksashissister. 他书数量比妹妹多两倍
+二、副词
+副词修饰动词、形容词或整个句子，说明时间、地点、程度、方式等。
+1.副词的用法
+(1)作状语。 Don'tspeaktoofast. 不要说得太快。
+(2)作表语(并非任何副词都能作表语)。 Sheisout.她出去了。
+(3)作定语。 Theairhereisveryfresh.这儿的空气很新鲜。
+2.副词的位置
+(1)在动词之前。
+(2)在be动词、助动词之后。
+(3)多个助动词时，副词一般放在第一个助动词后。
+注意：程度副词在句中的位置。
+so 通常置于所修饰的形容词、副词和以 many，much，few，little
+等形容词开头的名词词组之前。
+ItissointerestingtotalktoJohn.与约翰谈话非常有趣。
+比较“so+形容词+a(an)+名词”和“such+a(an)+形容词+名词”。
+I'veneverseensoamusingafilm.我从来没有看过这么有趣的电影。
+I'veneverseensuchabeautifullake.我从未见过这么美丽的湖。
+注意：a,an置于such之后，但no,any,some,all,many等则置于such之前。
+I'veheardofsomesuchrumors.我听到过一些这样的谣传。
+第六章 介词
+一、概述
+1.介词一般用于名词或代词前，表示该词与其他句子成分的关系。
+第 17 页
+
+===== [page 19] =====
+2.介词是虚词，不能单独作句子成分。
+3.介词与动词、名词、形容词常有比较固定的搭配，学习时应特别注意。
+如：belongto(属于),fullof(充满),lovefor(对…的爱)。
+二、介词的位置
+介词一般用在它的宾语之前，但当它的宾语为疑问代词、疑问副词或关
+系代词时，则可以后置，特别是在非正式英语里。
+Whatareyoutalkingabout?你们在谈论什么?
+注意：介词也可放在句首疑问词或关系代词前。
+Atwhattimedoyougetupeveryday?你每天几点起床?(at 在口语中可省)
+三、介词短语
+介词后面的名词或相当于名词的其他词类、短语、从句叫做介词宾语。
+介词和介词宾语合称为介词短语。介词短语可在句中作定语、表语和状语等。
+1.作定语 Afriendinneedisafriendindeed.患难朋友才是真朋友。
+2.作表语 Thechildislikehismother.这个孩子像他母亲。
+3.作补语 Hewokeupandfoundhimselfinhospital.
+他醒来发现自己在医院里。(inhospital作宾补)
+4.作状语 Mybrotheroftengoestoschoolonfoot. 我弟常步行上学。
+5.作主语 Fromthelibrarytotheteachingbuildingisa10minutes’walk.
+从图书馆到教学楼要走10分钟。
+注意：介词短语是由介词加宾语构成，可以单独作为一个句子成分。短
+语介词是一个相当于介词的词组，不能单独作句子成分。试比较：
+infrontofthehouse 在房子前面(介词短语)
+infrontof在……前面(短语介词)
+becauseoftherain 因为下雨(介词短语)
+becauseof 因为(短语介词)
+第七章 动词
+第一节 动词的分类及其基本形式
+一、动词的分类
+动词可分为实义动词、连系动词、助动词和情态动词
+1.实义动词 实义动词有完整的词义，表示一定的动作或状态，可以单
+独作谓语。实义动词又可分为及物动词与不及物动词。及物动词后面可以直
+接接宾语，可用于被动语态；不及物动词后面不能直接接宾语，没被动语态。
+2.连系动词 连系动词虽然本身也有词义，但不能单独作谓语，必须与
+第 18 页
+
+===== [page 20] =====
+表语一起才能作谓语。最常用的连系动词是be(是)。其他常见连系动词还有：
+seem 似乎 appear 显得 feel觉得，摸起来 look 看起来
+3.助动词 助动词本身没有独立的意义，不能单独作谓语，必须和实
+义动词或连系动词的某种形式一起构成谓语，表示否定、疑问以及动词的时
+态、语态、语气、人称和数等特征。常用的助动词有do,be,have,shall(should),
+will(would) 等。助动词的作用有：
+(1)帮助构成各种时态。 Sheiswritingaletter.她正在写信。(进行时)
+(2)帮助构成被动语态。 Smokingisforbiddeninthereadingroom.
+(3)帮助构成语气。 Doyougotoschooleveryday?
+4.情态动词
+情态动词意义不完整；不能单独作谓语，必须和实义动词或连系动词的
+原形一起才能构成谓语，表示说话人对某种动作或状态的看法。常见的情态
+动词有：can,could,may,might,must,need,shall,should,will,would,oughtto,
+dare 等。此外，haveto,begoingto,beto,happento,seemto等结构也有情态
+意义，也可当作情态动词来用.
+二、动词的基本形式
+动词有四种基本形式：动词原形（do）、过去式（did）、过去分词（done）
+和现在分词（doing）。
+第二节 动词的时态
+一、一般现在时
+1.构成 一般现在时由”主语+do/does”构成。
+2.用法
+(1)用于叙述现阶段经常性或习惯性的动作
+(常见的时间状语有 often/always/sometimes/everyday/onSunday)。
+(2)表示现阶段存在的状态、特征或心理活动。Ilikefruits.我喜欢水果。
+(3)用于叙述客观事实或真理。
+(4)表示主语具备的性格、能力和特征。TheyspeakEnglishverywell.
+(5)表示计划、安排好的将来动作，也可用一般现在时
+(限于go/come/leave/start/begin/arrive)。
+Theplanetakesoffat11a.m.飞机上午11点起飞。
+(6)在时间、条件状语从句中，用一般现在时代替一般将来时。
+IwillwritetoyouassoonasIgettoShanghai. 我一到上海就给你写信。
+(7)表示“说，报道”，用一般现在时，主要是动词 say。
+Theradiosaysheavyrainintheafternoon.广播预报下午有大雨。
+二、一般过去时
+1.一般过去时用来表示过去某特定时间发生的动作，或过去习惯性、经
+第 19 页
+
+===== [page 21] =====
+常性的动作或行为。常见的时间状语有：yesterday，lastweek,alongtime
+ago,onceuponatime,then,atthattime,theotherday 等。
+2.实际上动作是在过去发生的，句子应当用过去时态。
+Ididn'texpecttomeetyouhere.我没有想到会在这儿碰到你。
+三、一般将来时
+一般将来时由“主语+shall/will+动词原形”构成，表示将要发生的动作或
+存在的状态，常与tomorrow,nextweek,inafewminutes,inthefuture等连用。
+Theywillmeetyououtsidethetheatreat7:00tomorrowmorning.
+明天早上7点钟他们将在剧院外面和你见面。
+其他几种用于表示将来时态的结构有：
+1.begoingto+动词原形 表示意图、打算和将要发生的情况。
+WearegoingtohaveanEnglisheveningnextMonday.
+我们下周一将举办个英语之夜晚会。
+2.beto+动词原形 表示按计划、安排、决定将要发生的动作。
+Thesportsmeetingistobeheldtomorrowafternoon. 运动会将明天下午
+举行。
+3.beaboutto+动词原形 表示即将发生动作，不可用未来时间状语。
+Hurry!Thetrainisabouttoleave. 快点！火车马上要开了。
+四、过去将来时
+1.由“主语+should/would+动词原形”构成，表示从过去某时看来将要发
+生的动作或存在的状态。这种时态常用在宾语从句中。
+Hesaidthatthemeetingwouldbeginathalfpastninethismorning。
+他说会议将于今天早上9点半开始。
+2.表示过去的某种习惯性行为，只用would。
+Wheneverwehadtrouble,hewouldcometohelpus.
+不管何时我们遇到麻烦，他都会来帮我们。
+3.几种特殊结构；was/wereto+动词原形；was/wereaboutto+动词原形；
+was/weregoingto+动词原形。”
+IwasjustabouttospeakwhenJackstoodupandbeganhislongdulltalk.
+我正要讲，这时杰克站起来，开始了他又长又无聊的谈话。
+五、现在进行时
+1.构成 现在进行时由“主语+am/is/are+doing”构成。
+2.用法
+(1)表示现在正在进行的动作。
+(2)表示现阶段正在进行的动作，但此刻并不一定在进行。
+IamstudyingEnglishintheuniversity. 我目前在大学里学英语。
+第 20 页
+
+===== [page 22] =====
+(3)与频度副词 always,constantly,continuously等连用，表示强烈的感情。
+Heisalwaysaskingthesamequestion.他老是问同一个问题。(表示不满)
+(4)现在进行时可以表示按计划、安排将要发生的动作，常用的这类动词
+包括go,come,leave,start,arrive,stay,return,stop等。
+(5)wonder,hope 等少数动词的进行时表示婉转语气。
+IamwonderingifImayborrowyourbike.我可以借你的自行车用一下吗?
+六、过去进行时
+1.表在过去某一时刻正在发生的动作，常与表示过去的时间状语连用。
+IwaswatchingTVat7o'clockyesterdayevening.昨晚7点时我正在看电视。
+2.用 while 或 atthetime等强调同时进行的两种或几种动作。
+WhileIwasworkinginthegarden,mywifewascookingdinner.
+我在花园里工作，我妻子在做晚饭。
+3.come，go,leave，get，reach，start，arrive等一些表示趋向动作的动词
+用作过去进行时，表示按计划，安排在过去看来将要发生的动作。
+HetoldmethathewasleavingforShanghaisoon. 他告诉我他很快要去上
+海。
+4.与always,forever,frequently等副词连用，可表示某种感情色彩。
+Shewasforevercomplaining.她老是抱怨。(厌烦)
+七、将来进行时
+表示在现在看来将来某一时刻或某段时间正在进行的动作，构成形式是
+shall/willbedoing，具有一般将来时和现在进行时两者的特点。
+NextWednesdaywe'llbeflyingtoSydney.下星期三我们将飞往悉尼。
+八、现在完成时
+1.构成 现在完成时由“主语+have/has+动词的过去分词(done)”构成。
+2.用法
+(1)表示动作到现在为止已经完成或刚刚完成
+Ihavejustfinishedmyhomework.我刚刚做完了我的家庭作业。
+(2)表示过去发生或完成的某一动作对现在造成的影响或结果，有时无时
+间状语，有时和一些表示从过去某时到现在这段时间的时间状语连用，
+如：sofar,bynow，uptonow,formonths,ever，yet 等
+Haveyoueverreadthatstory?你读过那个故事吗?
+(3)表示从过去一直延续到现在并还可能继续延续下去的动作，用延续性
+动词，且句中常带有表示一段时间的时间状语，如:since,fortwomonths 等。
+Wehavelivedhereforfiveyears.我们在这里住了5年了。
+九、过去完成时
+第 21 页
+
+===== [page 23] =====
+1.构成 过去完成时由“主语+had+动词的过去分词”构成。
+2.用法
+(1)过去完成时表示在过去某一时间或动作之前已经发生或完成了的动
+作。即“过去的过去”。可以用 before,by 等介词短语或一个由until,when,after,
+once,assoonas 引导的时间状语从句来表示，也可以用一个表示过去的动作
+来表示，还可以通过上下文来表示。
+(2)表示由过去的某一时刻开始，一直延续到过去另一时间的动作或状态，
+常和for，since构成的时间状语连用。
+(3)用在told，said，knew,heard，thought等动词后的宾语从句中。当宾
+语从句的主句为一般过去时，且从句的动作先于主句的动作时，从句要用过
+去完成时。
+(4)动词 think,want,hope,mean,plan,intend 等用过去完成时来表示过去
+未曾实现的想法、希望、打算或意图等
+(5)过去完成时还可用在 hardly...when..,no sooner...than...,it was the
+first(second,etc.)time(that)...等固定句型中。
+第三节 被动语态
+一、被动语态的构成
+被动语态由“助动词be+及物动词的过去分词”构成。被动语态的时态
+变化只改变be的形式，过去分词部分不变。疑问式和否定式的变化也如此。
+二、被动语态的用法
+1.不知道或没有必要指出谁是动作的执行者时要用被动语态。
+2.当更加强调动作的承受者时要用被动语态。此时动作的执行者由by引
+导，置于谓语动词后，不需要时可以省略。
+Thesebooksmaybekeptfortwoweeks.这些书可以保管两周。
+3.当动作的执行者不是人时，多用被动语态。
+Thewindowwasblownbywind.窗户被风吹开了
+4.表示客观的说明常用“Itis+过去分词+that”句型。
+ItissaidthatLucyhasgoneabroad.据说露西已经出国了。
+第四节 主谓一致
+主谓一致是一种常见的语法现象，它指的是谓语动词在人称和数上必须
+与主语保持一致。其用法较为复杂。主谓一致依据语法一致、意义一致和就
+近一致三条原则。
+一、名词作主语时的主谓一致
+1.集体名词作主语若强调整体，谓语动词用单数；若突出个体，谓语动词
+为复数。常见的这类名词有 committee,family,group,class,army,enemy等。
+注意：people,police,youth,cattle等作主语，谓语动词常用复数。
+第 22 页
+
+===== [page 24] =====
+Thepolicehavecaughtthethieves.警察捉住了盗贼。
+2.单、复数同形的名词作主语，谓语动词可为单数，亦可为复数，视其意
+义而定。works(工厂)，means(方法)作主语也有类似用法。
+3.表示时间、金钱、距离、重量等的词语作主语，通常被看做一个整体，
+谓语动词用单数。
+二、并列主语的主谓一致
+1.and连接并列主语，谓语动词通常用复数形式，但在下列情况下用单数：
+(1)and 连接的并列主语指的是同一个人、同一事物或同一概念。
+TheEnglishteacherandheadteacherisayoungman.
+英语老师兼班主任是一位年轻人。
+(2)and 连接的并列名词有 each,every,no 或manya等修饰时，谓语动词
+用单数。
+Inourcountryeveryboyandeverygirlhastherighttoreceiveeducation.
+在我们国家每一个孩子，不管男女，都有受教育的权利。
+Noteacherandnostudentwaspresentattheparty.
+老师和学生都没有参加晚会。
+2.由 or,either...or..,neither...nor..,notonly...butalso...,not...but...等连接并列
+主语时，遵循就近原则，即谓语动词应与最靠近它的主语一致。
+EitherheorIamwrong.不是他错，就是我错。
+3. 两个主语由aswellas,ratherthan,but,togetherwith,alongwith,with,
+except,besides等连接时，谓语动词的数与最前面的主语保持一致。
+Theteacheraswellasthestudentshasseenthefilm.师生都看过这部电影。
+三、名词化形容词作主语时的主谓一致
+“the+形容词”表示一类人时，谓语动词用复数。常见的这类词有：the
+poor, the rich, the sick, the dead, the young, the wise, the deaf, the blind, the
+leaned, the wounded, the aged, the killed, the living, the dying, the English, the
+French,theChinese等。
+第五节 情态动词
+一、概述
+情态动词表示说话人的某种感情或语气，对某一动作或状态的某种态度，
+表示“需要”“可以”“必须”“应当”等意义，有以下特征：
+1.不单独作谓语，除 oughtto和 usedto以外，只能接不带to的不定式。
+2.没有人称和数的变化。can，will，dare有一般时和过去时的变化。
+3.情态动词的“时态”的形式并不是区分时间的主要标志。情态动词的
+现在时形式和过去时形式都可用来表示现在时间、过去时间或将来时间。
+二、用法归纳
+第 23 页
+
+===== [page 25] =====
+1.can/could
+(1)表示能力，常译为“能，会”。
+(2)表示允许，常译为“可以”；could还可以表示更加委婉地请求或许可。
+(3)表示对现在或过去情况的推测，只用于疑问句或否定句中。
+Canwhathesaidbetrue?他说的可能是真的吗?
+(4)用于肯定的陈述句中，表示理论上或习惯上的可能性。
+Accidentscanhappenatanytime.事故随时可能会发生。
+2.can(could)/beableto
+(1)can只有现在时和过去时 could。beableto则有更多的时态变化，在
+将来时、完成时和非谓语动词中只能用 beableto。
+(2)can一般指自身具有的能力。beableto则表示经过一段时间的努力后
+所具有的能力，相当于managetodo或 succeedindoing。
+(3)在否定结构中 was/wereableto与could 没有区别。
+Sheranfastbutshecouldn't/wasn'tabletocatchthebus.
+她跑得很快，可还是没能赶上公共汽车。
+3.may/might
+(1)表示征询许可时，may可与can/could换用，might 比 may的语气更
+委婉一些，对其一般疑问句的肯定回答可用 may或 can，否定回答时要用
+mustn't或can't,mustn't表示“不可以，禁止”之意。
+(2)may常用于祈使句中表示祝愿。 Mayyousucceed! 祝你成功！
+(3)表示对现在或过去情况的推测，一般只用于肯定句中，maynot表示“可
+能不”之意。might 比 may 可能性小。
+Hemaybeverybusynow.他现在可能很忙。
+4.will/would
+(1)表示请求、建议，用于第二人称疑问句中，would比will 语气更委婉。
+Willyoucallbacklater,please? 请过一会儿再打过来，好吗?
+(2)will表示意志、愿望和决心，would 表示过去的意愿和决心。
+Iwilldomybesttohelpyou.我愿尽我最大的努力帮助你。
+(3)表示习惯性动作或某种倾向。would 表示过去习惯性的动作或倾向。
+Oilwillfloatonwater.油总是浮在水上.
+(4)表示功用或能力。
+Theroomwillseat100persons.这个屋子能坐下 100 人。
+5.shall/should
+(1)shall用于第一人称疑问句中，表说话人征求对方的意见或向对方请示。
+Whatshallwedothisevening?我们今晚干什么呢?。
+(2)shall用于第二，第三人称，表说话人给对方命令、警告、允诺或威胁。
+Youshallfailintheexamifyoudon'tworkhard.
+如果你不努力学习你会考试不及格的。(警告)
+(3)should表示劝告，建议、命令，其同义词是oughtto；在疑问句中，
+第 24 页
+
+===== [page 26] =====
+通常用should代替oughtto,意为“应该”。should 还常用于虚拟语气中。
+Youshouldn'thaveleftsosoon. 你不 应当走得这么早。
+(4)should 表示推测、可能，往往有一定根据，含“按道理应当”之意。
+Theyshouldbeathomebynowfortheyhavebeenawayfortwohours.
+现在他们该到家了，因为他们离开两个小时了。
+(5)should 表示惊异、意外、生气、失望等感情色彩。
+HowshouldIknow?我怎么会知道呢?
+(6)should在宾语从句、表语从句、同位语从句、状语从句等中可表虚拟。
+Salsuggestedthatweshouldgoforaswim.萨尔建议我们去游泳。
+6.need/needn't
+(1)need“需要，必要”，既可作情态动词，也可作实义动词。
+①用作情态动词，后接动词原形，没有人称和数的变化，通常用于否定
+句和疑问句。 NeedIdoitatonce?我需要马上做这件事吗?
+②用作实义动词，有动词的各种形式变化，可用于一切句式；其宾语可
+以是名词、动名词、动词不定式或代词；构成否定句和疑问句时要借助于助
+动词do或does。 Mycoatneedsmending/tobemended.我的外套需要补--下
+(2)neednothavedone 表示“本没必要做某事”
+Youneedn'thavetoldmethenews.你本没有必要告诉我这个消息。
+(3)对于以need开头的疑问句的否定回答可用 needn't，但是肯定回答却
+不能用“Yes,Ineed.“之类的.而是用“Yes,Imust.”来回答。
+(4)由 must 引出的一般疑问句，肯定回答用must，否定回答用 needn't.
+7.情态动词+havedone
+(1)can(could)+havedone 的疑问或否定形式表示对过去发生的行为的怀
+疑或否定，另外couldhavedone 还表示“过去本能够做，但实际上未做…”.
+(2)may(might)+havedone表示对过去所发生事情的推测。
+(3)should+havedone 表示过去本应该做而实际上未做某事，而shouldn't
++havedone表示过去本不应该做但实际上做了某事。
+(4)must+havedone表示对过去发生情况的肯定推测。
+Itmusthaverainedlastnight.昨晚肯定下雨了。
+第六节 非谓语动词
+一、动词不定式
+动词不定式的用法；
+1.作主语。不定式作主语时常用it作形式主语，而把真正主语放在后面。
+Tohelpothersismyduty. →Itismydutytohelpothers. 帮人是我的职责
+2.作表语。
+Herjobatthattimewastolookafterthesickboy.
+她当时的任务就是看护这个生病的男孩。
+3.作宾语。 常用在下列动词后面：
+want, need, hope, wish, expect, intend, plan, mean, prefer, hate, like, try,
+第 25 页
+
+===== [page 27] =====
+manage,remember,forget,begin,start,agree,refuse,learn。
+在teach,know,show等词后则多接疑问词加不定式。
+HehasagreedtohelpmewithmyEnglish. 他答应帮我学习英语。
+4.作定语补足语或主语补足语。常接不定式作宾语补足语或主语补足语
+的动词有ask,advise,allow,beg,cause,force,get,help,permit,order,want,wish,tell等,
+但hope,suggest,agree 和demand 不接不定式作宾语补足语。
+5.作定语。
+Ihadnochancetogotoschoolatthattime.我当时没有机会上学。
+6.作状语。
+(1)作目的状语：todo,inordertodo,soastodo(不能用于句首)。
+Theyallrushedouttohavealookatthefilmstar. 他们都跑去看电影明星。
+(2)作原因状语.
+Wewereallrelievedtoseethembacksafe.他们安全返回,我们松一口气。
+(3)作结果状语：onlytosee/find/betold,too...to...(表否定)。
+Hehurriedtothestationonlytofindthetrainhadleft.
+他匆忙赶到车站，发现火车已经开走。
+二、动名词
+动名词的用法：
+1.作主语。
+(1)动名词作主语时，谓语动词通常用单数。
+Recitingisnecessaryinlearningalanguage.学一门语言时，背诵是必需的。
+(2)动名词作主语表示经常的、习惯的动作或情况，而不定式更倾向某一
+次特定的、具体的动作。
+Walkingisagoodformofexerciseforboththeyoungandtheold.
+步行对老年人和年轻人来说都是一种很好的运动方式。
+(3)为了避免“头重脚轻”，用it作形式主语，把真正的动名词主语后置。
+It'scrazytalkingtothemanagerthatway.那样对经理说话真是发疯了。
+2.作表语。
+动名词作表语主要表示主语的具体内容，基本上可以把主语与表语倒过
+来理解。如果表示与动名词主语等同或类似情况，表语通常用动名词。
+Myfavoritesportisplayingbasketball.我最喜欢的运动是打篮球。
+3.作定语。
+动名词作定语时，如果是单个动名词通常置于被修饰名词之前，表示被
+修饰名词的用途或性能。 aswimmingpool 游泳池
+4.作介词及下列动词、动词短语的宾语，如：acknowledge(承认)，admit(承
+认)，appreciate(感激)，avoid(避免)，consider(考虑)，delay(拖延)，deny(否认)，
+dislike(不喜欢)，enjoy(喜欢)，escape(避免)，excuse(为……辩解)，fancy(喜欢)，
+finish(完成)，imagine(想象)，keep(一直)，mind(介意)，miss(错过)，postpone(推
+第 26 页
+
+===== [page 28] =====
+迟)，practise(练习)，suggest(建议)，require(需要)，risk(冒险)，giveup(放弃)，
+putoff(推迟)，can'thelp(禁不住)等。
+She seldom speaks English in class, for she was afraid of making mistakes
+andbeinglaughedat. 她很少在班里讲英语，因为她害怕出错，被别人嘲笑。
+三、现在分词
+1.现在分词作定语
+现在分词及其短语可以在句子中作定语，其作用相当于一个定语从句。
+现在分词作定语时多置于它所修饰的名词之前；分词短语位于它所修饰
+的词的后面。
+Don'twakeupthesleepingchildren.不要吵醒睡觉的孩子们。”
+注意：(1)现在分词作定语时与谓语动词的时间关系。现在分词有进行意
+味和主动意味，因此，用现在分词作定语时，其表示的动作是与谓语动词同
+时发生的，或是正在发生的动作。
+There were no soldiers drilling.=There were no soldiers who were drilling.
+没有士兵在操练。
+(2)现在分词的完成时态(having+动词过去分词)表示该动作先于谓语动词
+的动作发生，现在分词的完成时态永远不能作定语。如果一个及物动词作定
+语，既要表达进行意味，又要表达被动意味时，可用现在分词的被动语态
+(being+动词过去分词)。
+Doyouknowtheboybeingpunishedbyourteacher?
+你认识正在被我们老师处罚的那个男孩吗?
+2.现在分词作状语
+现在分词及其短语可在句子中作状语来修饰谓语动词或整个句子，用来
+表示动作发生的时间、原因、结果、条件、让步或伴随情况等。
+Climbingtothetopofthehill,wesawabeautifulview.
+爬上山顶后我们看到了一幅美丽的景象。
+3.现在分词作宾语补足语
+现在分词主要用于以下两类动词后构成宾语补足语：
+(1)表示感觉和状态的动词，如 see,hear,feel,smell,watch,find,notice等。
+Hefelthisheartbeatingfaster.他感到他的心跳在加快。
+(2)表示“指使”意义的动词，如have,set,keep,get,catch,leave等。
+I'msorrytohavekeptyouwaitinglong.对不起让你久等了。
+四、过去分词
+1.过去分词作定语
+(1)过去分词作定语表“完成”或“被动”。
+therisensun(=thesunthathasjustrisen)已升起的太阳
+(2)单个的过去分词作定语时，一般放在被修饰词语之前，也可以放后面
+Becarefulofthebrokenglass(theglassbroken).小心碎玻璃
+第 27 页
+
+===== [page 29] =====
+(3)过去分词短语作定语时，须将分词短语放在被修饰的词语之后
+What'sthelanguagespoken(=thatisspoken)inthatcountry?
+那个国家讲的是什么语言?
+2.过去分词作表语
+当“人”作主语时用过去分词作表语，表示主语的状态或思想感情等。
+Whenweheardofit,weweredeeplymoved.
+听到这件事时，我们被深深地感动了。
+3.过去分词作状语
+作状语用的过去分词一般位于句首或句末，表示时间、原因、条件、伴
+随(方式)等。过去分词前可加when(while),once,if,evenif,unless,though等连词。
+Hewillcomeifasked.若受到邀请，他会来的。
+4.过去分词作宾语补足语
+过去分词可以用作宾语补足语，能用作宾语补足语的过去分词一般都是
+及物动词，表示被动意义或完成意义，有时候两者兼而有之。作宾语补足语
+的过去分词与宾语有逻辑上的动宾关系，即宾语是过去分词动作的对象。
+第七节 虚拟语气
+虚拟语气表示说话人所说的话不是事实，或者是不可能发生的情况，而
+是一种愿望、建议或与事实相反的一种假设。
+1.虚拟语气在条件从句中的构成
+(1)表示与现在事实相反，谓语动词的主要形式为：条件从句为动词过去
+式(be的过去式一般用were)，主句为would(should/could/might)+动词原形。
+(2)表示与过去事实相反，谓语动词的主要形式为：条件从句为had+动词
+的过去分词，主句为would(should/could/might)+have+动词的过去分词。
+(3)表示与将来事实相反，谓语动词的形式为：条件从句为动词的过去式
+或should/wereto+动词原形，主句为would(should/could/might)+动词原形。
+2.混合虚拟条件句
+有时条件从句表示的动作和主句表示的动作，发生的时间不一致。这时，
+动词的形式应根据表示的时间来调整。
+IfIhadknownit,Iwouldnotbeinsuchtroublenow.
+如果我(以前)知道它，我现在就不会陷入麻烦之中了。
+3.省略连接词if的虚拟条件句
+如果条件句中含有助动词、情态动词、动词“be”或“have”，if可省
+略，但这时，助动词、情态动词、动词“be”或“have”要移到主语前。
+Wereshehere，shewouldhelpme.如果她在这儿的话，她会帮我的。
+4.含蓄条件句
+虚拟条件句有时是通过介词短语、副词或上下文表现出来。
+Butforyourhelp,Iwouldn'thavefinishedmyworksosoon.
+要是没有你的帮助，我不会这么快完成我的工作的。
+第 28 页
+
+===== [page 30] =====
+5.其他从句中的虚拟语气
+(1)wish引导的宾语从句；asif，asthough引导的状语从句，一般用虚拟。
+IwishIcouldhelpyou,butIamverybusy.我但愿能帮你,但我非常忙。
+(2)在表示命令、建议、要求等的主语从句、宾语从句、表语从句和同位
+语从句中，要用虚拟语气。其谓语动词用动词原形或should+动词原形。
+(3) 在 It is strange(natural, necessary, important,desired, better, essential,
+advisable)that..:Itisapity(shame,nowonder)that..等结构的句子中，从句的谓语
+动词用动词原形
+(4)在Itishigh(about)timethat...结构中，从句的谓语动词用过去式，有时
+也用should+动词原形，但should不能省略。
+Itishightimethatwetoldhimthetruth.该告诉他真相。
+(5)在wouldrather，wouldprefer等后面的从句中，动词用过去式表示现
+在和将来的情况，用过去完成式表示过去的情况。
+Jimwouldratherwedidn'tleavenow,butwemustgotowork.
+吉姆宁愿我们现在不要离开，但我们必须去工作。
+第八章 简单句、并列句、复合句
+第一节简单句和并列句
+一、简单句
+1.概念：只有一个主语(或并列主语)和一个谓语(或并列谓语)的句子叫简单句。
+2.分类：根据简单句的结构可分为五种基本句型。
+(1)主语+不及物动词 (2)主语+及物动词+宾语
+(3)主语+系动词+表语 (4)主语+及物动词+宾语+补语
+(5)主语+及物动词+间接宾语+直接宾语
+3.根据句子的功能，又可分为：陈述句、疑问句、祈使句和感叹句。
+疑问句又分为：一般疑问句、特殊疑问句、选择疑问句和反意疑问句。
+二、并列句
+含两个或以上独立分句的句子，叫并列句。这些独立的分句，处于平等
+的、互不依存的并列地位，并列句可以使用逗号、分号或并列连词连接。
+Followthedoctor'sadvice,otherwiseyourcoughwillgetworse.
+遵照医生的建议，否则你的咳嗽会更严重的
+第二节 名词从句
+名词从句共有四种：主语从句、表语从句、宾语从句和同位语从句。
+一、主语从句
+主语从句是在复合句中充当主语的从句，通常放在主句谓语动词之前或
+第 29 页
+
+===== [page 31] =====
+由形式主语it代替，而主语从句本身放在句子末尾。引导主语从句的连接词
+有 that,whether,what,who,which,how,why,when,where 等。
+注意：
+1.主语从句的连接词that不同于其他的连接词，它不充当句子的成分，
+只是单纯的连接词，通常不可以省略。从句可以置于句首，也可以用it作形
+式主语，而把真正的主语从句置于句尾。
+Thatthedrivercouldnotcontrolhiscarwasobvious.
+司机不能控制他的车子是很明显的。
+→Itwasobviousthatthedrivercouldnotcontrolhiscar.
+2.if不能用在主语从句中，而whether可以。
+Whetherheleft(ornot)isunknown.他是否离开了还不清楚。
+3.当主语从句作主语时，谓语动词一般用第三人称单数形式。
+Whatweneedismoretimeandmoney.我们所需的是更多的时间和金钱。
+二、宾语从句
+宾语从句就是在复合句中作宾语的名词性从句，通常放在主句谓语动词
+(及物动词)、形容词或介词之后。
+Iheardthathejoinedthearmy.我听说他参军了。
+在宾语从句中连词whether和if可以互换，但注意下列情况：
+1.宾语从句中的谓语动词后紧跟 ornot时用whether。
+Iwanttoknowwhethertheywillcomeornot.我想知道他们是否来。
+2.作介词宾语时用 whether引导宾语从句。
+Hewasinterestedinwhetherhewouldseeherthere.
+他感兴趣的是他在那里能否看见她。
+3.连接词后直接加不定式，不能用if只能用whether。
+Hedoesn'tknowwhethertostayornot.他不知道是去还是留。
+4.如果宾语从句是否定式，一般用if引导。
+Iwonderifhewillnotattendthemeeting.我想知道他是否将不参加会议了
+三、表语从句
+表语从句是在复合句中作表语的名词性从句，放在系动词之后，一般结
+构是“主语+系动词+表语从句”。可以接表语从句的系动词有be,look,remain,
+seem等。引导表语从句的that常不可省略。
+注意：1.如果主句的主语是idea,advice,suggestion,order,request,
+requirement等名词时，则表语从句的谓语应用虚拟语气，
+即“(should)+动词原形”的形式。
+Hissuggestionisthatwe(should)changeourcourse.
+他的建议是我们应该调换课程.
+2.主句主语为名词reason，从句的连接词要用that，不用why或because。
+第 30 页
+
+===== [page 32] =====
+Thereasonforsuchaseriousaccidentisthatthedriverwastoocarelessand
+drunk. 这么严重的交通事故完全是由于司机太粗心、喝酒太多造成的。
+3.because,asif,asthough,as,like等连接词也可引导表语从句。
+Hehasheartdisease.Thatisbecausehehasbeensmokingtoomuch.
+他有心脏病，那是因为他抽烟太多了。
+第三节 定语从句
+在主从复合句中，修饰句中某一名词或代词，充当这一名词或代词的定
+语的从句，叫做定语从句。被修饰的名词或代词，叫做先行词。从句放在所
+修饰词(即先行词)之后，由关系副词或关系代词引导。定语从句可分为限定性
+定语从句和非限定性定语从句两种。
+一、限定性定语从句
+限定性定语从句只能用that的几种情况：
+1.当先行词是 anything,everything,nothing,few,all,no,little,some等代词时，
+或者是由every,any,all,some,no.little,few,much 等修饰时。
+2.当先行词被序数词修饰时。
+3.当先行词被形容词最高级修饰时。
+4.当先行词被thevery,theonly修饰时。
+5.当先行词前面有 who,which 等疑问代词时。
+WhichistheT-shirtthatfitsmemost? 哪一件T恤衫最适合我?
+6.当先行词既有人，也有动物或者物体时。
+Canyourememberthescientistandhistheorythatwehavelearned?
+你还记得我们学过的那位科学家和他的理论吗?
+二、非限定性定语从句
+非限制性定语从句是先行词的附加说明，去掉了也不会影响主句的意思，
+它与主句之间通常用逗号分开。例如：Thehouse,whichweboughtlastmonth,
+isverynice. 这幢房子很漂亮，是我们上个月买的。
+三、定语从句中的谓语动词与先行词保持一致
+当引导定语从句的关系代词在从句中作主语时，定语从句中的谓语动词
+的数的形式应与先行词保持一致。
+1.oneof+复数名词+关系代词+复数动词。
+Heisoneofthestudentswhopasstheexam.他是通过考试学生中的一员。
+2.theonlyoneof+复数名词+关系代词+单数动词。
+Heistheonlyoneofthestudentswhopassestheexam.
+他是唯一通过考试的学生。
+3.当关系代词 as与which引导非限定性定语从句，修饰主句内容时，
+第 31 页
+
+===== [page 33] =====
+若as与which作主语，则从句的谓语动词用单数形式.
+Asisknowntoall,theearthgoesaroundthesun.众所周知地球绕太阳转。
+第四节 状语从句
+状语从句在句中作状语，修饰主句中的动词、形容词或副词等。
+一、时间状语从句
+1.when,while 和 as的区别
+(1)when引导的从句的谓语动词可以是延续性的动词，也可以是瞬时动
+词，并且when有时表示“就在那时”。
+(2)while引导的从句的谓语动词必须是延续性的，并强调主句和从句的动
+作同时发生(或者相对应)，并且while有时还可以表示对比。
+(3)as表示“一边……一边”，as引导的动作是延续性的动作，一般用于
+主句和从句动作同时发生：as也可以强调“一先一后”。
+2.since意为“自从……”，主句用完成时。since 引导的从句如果用非延
+续性动词，所表示的是自从句谓语动作算起；若用延续性动词或状态动词，
+所表示的就是自动作或状态的完成或结束算起。
+IhavewrittenhomefourtimessinceIcamehere.
+自从我来到这儿，我往家写了四封信。
+Ihaven'theardfromhimsincehelivedhere.
+自从他离开这儿以后，我就没有收到过他的来信。
+二、地点状语从句
+常用引导词有:where,wherever,anywhere,everywhere,nowhere等。
+地点状语从句可放在主句之前或放在主句之后。
+Whereverthereissmoke,thereisfire.事出有因。
+三、原因状语从句
+because,as,since,nowthat,for 可以引导原因状语从句。
+四、目的状语从句
+1.sothat/inorderthat 两者意思都为“以便…….为了……”，它们引导
+的状语从句中需用情态动词can,could等。inorderthat引导的从句可位于主
+句前或后,sothat引导的从句只能位于主句之后。
+2.forfearthat/incase/lest
+(1)forfear(that)表示目的时，意为“唯恐，以防”
+I'mworkinghardforfearthatIshouldfail.我正在努力工作，以防失败。
+(2)incase表示目的时，意为“以防(有某种情况发生)”。
+Istayedathomealldayincaseyoucalled.我一天都待在家，以防你打电话。
+(3)lest.意为“以防，以免”，一般用虚拟，形式为“(should)+动词原形”
+第 32 页
+
+===== [page 34] =====
+Heemphasizeditagainandagain,lestsheshouldforget.
+他反复强调这一点,免得她忘了。
+五、让步状语从句
+1.although/though(尽管，虽然),eventhough/evenif(即使)
+although与though意思相同，可互换，都可以与yet，still或 nevertheless
+连用, 但不能和but 连用。though还可作副词，意为“然而”，置于句末。
+2.as(尽管，虽然)
+as引导让步状语从句一般放在主句之前，须用倒装语序。从句中的表语、
+状语或动词原形置于句首。若表语是名词，前置时要省略冠词。
+Muchasheisopposedtolaw-breaking,heisnotbigotedaboutit.
+尽管他十分反对干违法的事，但他并不是一根筋。
+六、方式状语从句
+方式状语从句通常由as(像，如同)，justas(正如)，asif/though(好像)引导。
+asif,asthough从句若与事实相反，用虚拟语气，否则用陈述语气。
+七、结果状语从句
+引导结果状语从句的从属连词有sothat,so...that..,such...that...等。在非正
+式语体中，由 so…that…,such…that…引导的句子中 that 可以省略。
+Heworkedsohardthathegotill.他拼命工作，结果病倒了。
+八、条件状语从句
+条件状语从句通常由下列连词引导：if,unless,suppose,provided(that),on
+conditionthat,as(so)longas,incase 等。
+Unlesstherainstops,weshallnotgooutforplay.除非雨停，否则我们不出去玩。
+九、比较状语从句
+比较状语从句通常由下列连词引导：as...as,than,notso(as)...as，the+形容
+词/副词比较级..the+形容词/副词比较级...等。
+Thesooneryoustart，theearlieryou'llgettotheworkplace.
+越早出发，越早到达工厂。
+第九章 强调和倒装
+一、强调
+1.强调结构的基本形式是Itis/was+被强调部分+that/who..，可以用来强
+调主语、宾语、状语等，不能强调谓语动词。
+2.强调结构的一般疑问句句型为：Is/Wasit+被强调部分+that/who..?
+3.强调结构的特殊疑问句句型为：
+特殊疑问词(Who/What/When/Where/Why/How)+is/wasitthat...?
+4.表示推测的情态动词 can/may/must/might 可与 be 结合形成 it
+第 33 页
+
+===== [page 35] =====
+must/may/mightbe/havebeen...that...和 Itcan'tbe/havebeen...that.. 强调句。
+5.强调谓语一般用助动词does/do/did+动词原形。强调谓语时句子的时态
+一般是一般现在时和一般过去时。
+二、倒装
+英语句子的自然语序是主语在前，谓语在后。把谓语的一部分或全部提
+前，就叫倒装。全部谓语放在主语之前，叫全部倒装；只把助动词或情态动
+词放在主语之前，叫部分倒装。
+1.全部倒装
+(1)用于 therebe句型。
+(2)用于“here(there,now,then)+不及物动词+主语”的句型中，或以 out,in,
+up,down,away等副词开头的句子里，以表示强调。
+Herecomesthebus.公共汽车来了。
+注意：代词作主语时，主谓语序不变。 Herehecomes.他来了。
+(3)当句首状语为表示地点的介词词组时，也常常引起全部倒装。
+Southofthecityliesabigsteelfactory. 一个大钢铁厂位于这座城市南部。
+Fromthevalleycameafrighteningsound. 一个恐怖的声音从山谷传来。
+(4)表语置于句首时，倒装结构为“表语+连系动词+主语”。
+Present at the meeting were Professor White, Professor Smith and many
+otherguests.
+出席会议的有怀特教授、史密斯教授和许多别的客人。
+(5)用于以so,nor,neither 开头的句子，表示重复前句部分内容。句子的谓
+语应与前句谓语的时态、形式相一致。
+HehasbeentoBeijing.SohaveI.他去过北京，我也去过。
+(6)为了保持句子平衡，或为了强调表语或状语，或使上下文紧密衔接时。
+Theyarrivedatafarmhouse,infrontofwhichsatasmallboy.
+他们到达农场，有一个小男孩坐在农场前面。
+2.部分倒装
+(1)用于疑问句。
+CanyouspeakEnglish?你会讲英语吗?
+(2)省略if的虚拟条件句中，were,had或should 可句首构成部分倒装。
+WereInotsobusy,Ishouldgowithyou.
+如果我不是这么忙的话，我就和你一块去了。
+(3)在so...that(如此……以至于)句型中，若so提至句首，则构成部分倒装。
+(4)用于“形容词(名词、动词)+as/though”引导的让步状语从句中。
+Prettyassheis,sheisnotclever.虽然她很漂亮，但她不聪明。
+(5)用于 nosooner...than..,hardly...when和notuntil句型中。
+第 34 页
+
+===== [page 36] =====
+nosooner,hardly,notuntil置于句首时，句子倒装。
+(6)用于以never,hardly,seldom,scarcely,rarely,little,notasingle,notonly,
+bynomeans等词或短语开头的句子。
+NevershallIdothisagain.我再也不干这个了。
+(7)用于only开头的句子(only后面为副词、介词短语或句子)。
+OnlythisafternoondidIfinishthenovel.到下午我才完成了这本小说。
+第 35 页
+
+===== [page 37] =====
+【专升本】
+常考、易考点手册
+高等数学
+第 36 页
+
+===== [page 38] =====
+高等数学
+考试形式及试卷结构
+试卷总分:150 分
+考试时间:150 分钟
+考试方式:闭卷,笔试
+试卷内容比例;
+极限和连续 约15%
+一元函数徽分学 约30%
+一元函数积分学 约30%
+多元函数微分学 约15%
+概率论初步 约10%
+试卷题型比例:
+选择题 约56%
+填空题 约14%
+解答题 约30%
+试题难易比例:
+容易题 约30%
+中等难度题 约50%
+较难题 约20%
+第 37 页
+
+===== [page 39] =====
+高等数学
+目 录
+考点一 ：求极限..................................................................................39
+考点二： 连续性问题........................................................................42
+考点三：一元函数的求导....................................................................43
+考点四： 导数应用（1）................................................................46
+考点五：导数应用（2）......................................................................47
+考点六：不定积分................................................................................50
+考点七： 定积分..................................................................................53
+考点八： 平面图形的面积与旋转体的体积......................................56
+考点九： 二元函数的偏导与全微分................................................58
+考点十 ： 二元函数极值....................................................................59
+考点十一 ： 概率论初步....................................................................60
+第 38 页
+
+===== [page 40] =====
+考点一 ：求极限
+（一）函数的极限
+1、 ：
+设 ,当 时, , 即
+
+2、 （ 为某一数值）
+设 ，当 时， ，即
+
+（二）极限的运算
+1、和差：
+2、积：
+3、商：
+第 39 页
+
+===== [page 41] =====
+（三）求极限的方法和步骤
+1、直接求：①将 的值代入 ②求极限
+2、多项式的 型：①分解因式 ②约分 ③求极限
+3、含有根式的 型：①有理化 ②约分 ③求极限
+4、多项式的 型：①分子分母同除以最高次幂 ②求极限
+5、洛必达法则 型：分子分母同时求导。
+[注意] 因式分解、无理变有理都会常用到基本公式：
+平方差：
+立方和：
+立方差：
+（四）两个重要极限（要注意公式的变化）
+1、  （条件：① ；  或
+）
+第 40 页
+
+===== [page 42] =====
+,
+2、 （ ）（条件：①1；+；第二
+项为0；第二项和幂互为倒数 (此类题一般先凑成标准公式模式，
+再考虑幂的部分)
+（五）无穷小量与无穷大量
+有限个无穷小的和、差、积仍为无穷小量；
+无穷小量与有界量之积仍为无穷小量；
+同一变化过程中，如果f(x)为无穷小量，则 为无穷大量 ，反之，
+f(x)为无穷大量，则 为无穷小量。
+（六）无穷小量比较
+设A 、 B 两个函数在同一变化过程中的无穷小，则
+第 41 页
+
+===== [page 43] =====
+考点二： 连续性问题
+（一）
+定义：若 在 邻域内有定义,且 ，则
+在 点处是连续的.
+左极限＝右极限＝f(x ) 在x 处连续
+0 0
+左极限＝右极限  在x 处有极限
+0
+左导数＝右导数  在x 处可导
+0
+（二）判定： 在 点处连续的充要条件
+（1） 在定义域内
+（2） 极限值存在
+（3） 极限值等于该点函数值
+（三）间断点：判定法则——只要违背连续性判定三点中的任何一点
+即为间断。
+1．第一类间断点：
+2．第二类间断点：
+（四）函数的水平渐进线和铅直渐进线
+第 42 页
+
+===== [page 44] =====
+1、铅直渐进线为 ， （一般来说先找出其间断点，然
+后再用公式判断）
+2、水平渐进线为 ，即
+考点三：一元函数的求导
+（一）定义
+当 时， 与 的比 有极限，则该极限
+值叫做 在 点处的导数.
+y f(x x) f(x )
+即： f(x ) lim lim 0 0
+0 x x
+xx xx
+0 0
+或
+如果函数 在区间 内每一点都可导，则称该函数在内
+可导，其导数仍是X的函数，记为 或 或
+（二）求导公式和法则
+（1）基本公式:
+第 43 页
+
+===== [page 45] =====
+； ；
+； ；
+； ；
+； ．
+（2）运算法则：
+； ；
+；
+（三）高阶导数
+第 44 页
+
+===== [page 46] =====
+一阶； 二阶； 三阶；
+四阶； 阶．
+（四）复合函数求导： 
+设 ，再对 求导相乘即可。
+（五）一元隐函数求导（也可以用二元隐函数公式）
+（1）隐函数：由方程 确定的函数
+（2）求导：
+① 函数各项对 求导
+② 将 ( 、 、 、
+等)视为中间变量（复合函数），并对其求导
+③ 解方程，求出
+例
+两边求导 得
+第 45 页
+
+===== [page 47] =====
+再化解求出 即可 （但有些题一定要注意y是个复合函数）
+（六）幂指函数求导
+幂指函数 求导时，要先取对数的方法：
+1． ,然后再按隐函数求导方法求导即可。
+2． 。此法是先变成指数函数求导，具体选哪一种方
+法，视情况而定，一般考查第一 种方法。
+（七）微分：
+考点四： 导数应用（1）——求切线或法线
+（一） 过 函 数 某 点 （ ） 的 切 线 方 程 的 表 达 式 为
+;
+法线方程表达式为
+解题技巧为 :第一步求出函数的导数; 第二步求出 即切线方程
+的斜率;第三步代入方程表达式。
+注:法线方程只是斜率与切线斜率互为负倒数。
+第 46 页
+
+===== [page 48] =====
+考点五：导数应用（2）求驻点、单调区间、极值点（极
+值）、拐点、凹凸区间
+（二）求函数的单调性
+1、判定：
+2、步骤：
+（1）确定函数 的定义域
+（2）求导数
+（3）令 =0，解方程，求出方程的根
+（4）作表
+（5）在各区间内任取一个值代入,求出 的值
+（6）观察 的符号
+（7）写出结论
+第 47 页
+
+===== [page 49] =====
+（三）求函数的极值
+1、基本概念
+（1）极值：极大值和极小值
+（2）极值点：极大值点和极小值点
+（3）驻点：使 的点
+2、判定：
+3、步骤：
+（1）—（5）与单调性相同
+（6）观察极值点左、右区间内 的符号
+（7）把方程的根代入原函数求出极值
+注：函数的极值判断也可以用第二定理；判断函数的单调性和极
+值一般都作一张表完成，函数单调性的判断原理近几年会出现在证明
+题型中。
+（四）求曲线的凹凸区间和拐点
+第 48 页
+
+===== [page 50] =====
+1、判定： 凹凸的分界点为拐点
+2、方法：
+（1）确定函数 的定义域
+（2）求二阶导数
+（3）令 =0，解方程，求出方程的根（疑是拐点横坐标）
+（4）作表
+（5）在各区间内取一个值代入,求出 的
+（6）判定
+（7）把方程的根代入原函数求出的值就是拐点的纵向坐标
+（8）写出结论（拐点为坐标点）
+考点六：不定积分
+（一）原函数
+第 49 页
+
+===== [page 51] =====
+如果 或 ，则 叫做 的原函数
+即: 的所有原函数为 (共有无限个)
+（二）不定积分
+1、定义：如果 是 的一个原函数, 则 叫做
+的 不 定 积 分 , 记 做 ：
+即:
+式中: 积分符号、 被积函数、
+积分变量、 积分常数
+求不定积分 求原函数（一个原函数+常数）
+求不定积分 求导数（互为逆运算）
+2、公式
+（k为常数）；
+；
+；
+第 50 页
+
+===== [page 52] =====
+3、性质：
+（1）
+（2）
+（3） 或
+4、方法：
+（1）直接积分法:
+①适用:能直接用公式求积分的函数.
+②方法: 公式+性质
+（2）第一换元积分法 (凑微分法)
+① 适用:被积函数是一个复合函数可直接凑或被积函数是两
+个函数相乘或除，其中一个可以与 相凑。
+② 方法:换元(凑微分)
+如 ， 都是用凑微分解题。
+（3）分步积分法:
+第 51 页
+
+===== [page 53] =====
+（4）第二换元积分法
+第二换元积分法常用来求解含有根式的函数积分，当不容易求
+解式，可以引入新的变量来解，具体步骤如下：
+第一步：引入变量换元
+常使用的变换为：
+1.被积函数含有一次根式 时，令 .
+2. 含有二次根式 时，令 .
+3. 含有二次根式 时，令 .
+4.含有二次根式 时，令 .
+第二步：把原式中的变量x全部换成t计算积分
+第三步：变量还原
+考点七： 定积分
+n
+（一）定义:  b f(x)dx lim f()x
+i i
+a
+n i1
+式中: 被积函数、 积分区间、
+第 52 页
+
+===== [page 54] =====
+积分下限、 积分上限
+求定积分 求和式极限
+（二）几何意义： 表示由曲线 与 轴及直线 , 围
+成的平面图形的面积.
+（三）基本公式：(牛顿—莱布尼茨公式或N—L公式)
+即：定积分=原函数在积分上下限处的值之差
+（四）性质: (其他与不定积分相同)
+（1）
+（2）
+（3）
+（4）若 、 互为相反数， 为奇函数，则
+（5）若在区间 上，有 ,则
+第 53 页
+
+===== [page 55] =====
+（6）设 为函数在区间 上的最小值，最大值，则
+（7）若函数 在区间 上连续，则至少存在一点 ，
+使
+（五）方法：
+1、直接积分法: （利用基本性质和公式）
+2、换元积分法:（要把积分上下限也换了）
+3、分步积分法:
+（六）变上限定积分
+变 上 限 定 积 分 ：
+注意如果积分上限或下限不是ｘ,或上下限都变了
+例 ，要利用复合函数求导。
+设 要拆成两个变上限积分
+第 54 页
+
+===== [page 56] =====
+（七）反常积分（广义积分）（收敛或发散）
+反常积分的计算也可以转化到牛顿—莱布尼茨公式上，设F(x)为其一
+个原函数。
+1. 当其结果为常数时，称之收敛。
+2．当其结果为无穷大时，称之发散。
+考点八： 平面图形的面积与旋转体的体积
+（一）求平面图形的面积
+1．曲线 ,直线 , ,及x轴所围成的
+图形面积为
+（1）当 时，
+第 55 页
+
+===== [page 57] =====
+（2）当 时，
+2 ． 由 两 曲 线 及 直 线
+3．两曲线
+4. 曲线 ,直线 ,及 y 轴所围成图形面
+积为
+（二） 旋转体的体积
+1．由曲线 ,绕X轴旋转一周所成的旋转体体
+积
+上述体积公式也可以看做由曲线 ,直线 , ,及x轴所围
+成的平面图形绕x轴旋转一周所成的体积。
+第 56 页
+
+===== [page 58] =====
+2．由曲线 ,绕Y轴旋转一周所成的旋转体体
+积
+上述体积公式也可以看做由曲线 ,直线 , ,及y轴
+所围成的平面图形绕y轴旋转一周所成的体积。
+注意：如果是两条曲线围成的图形可看成由上一条曲线减下一条
+曲线构成的新曲线,只要找出ab即可。如果以dy作为考查也一样，但
+求旋转体体积时需要作图去思考，因为有时旋转会形成空白区域。
+考点九： 二元函数的偏导与全微分
+（一）如果函数 在区域D 内每一点都有定义，则定义在D
+上的以偏导数值为函数值的两个二元函数，分别称为关于x的偏函数
+和关于y的偏导函数，也简称为偏导数，分别记为
+二、二阶偏导
+三、全微分
+第 57 页
+
+===== [page 59] =====
+四、复合函数的链式法则
+设 函 数 , 且 有 连 续 偏 导 ， 则
+也有连续偏导，且遵循链式法则：
+五、二元隐函数的偏导
+设函数 ,z为x,y的二元函数， 对x,y,z
+有连续偏导，因此其导数为
+考点十 ： 二元函数极值
+（一）无条件极值判断
+设函数 在其驻点（x,y）某个邻域内有二阶
+0 0
+连续偏导，
+令
+,
+第 58 页
+
+===== [page 60] =====
+于是有
+，且极值点
+为
+所以解题步骤为
+第一步：求一阶偏导 并解方程组求驻点;
+第二步：求二阶偏导，再求出每个驻点对应二阶偏导值 ABC
+第三步：运用判别式求出极值。
+(二)条件极值（拉格朗日乘数法）
+第一步：做拉格朗日函数
+第二步：由函数的一阶偏导
+组成方程组
+第三步：求出解（ ）即原函数的极值点，如果有多个极值点，算出
+其函数值，大的即为最大值，反之。有时也要依据问题的实际意义判
+定。
+考点十一 ： 概率论初步
+第 59 页
+
+===== [page 61] =====
+（一）随机事件
+在一次随机试验中，可能出现，也可能不出现的事件叫随机事件，
+常用大写字母A，B，C等表示随机事件。
+（二）随机事件间的关系及运算
+1、事件的并（和）：事件AB至少有一个发生 ，记作
+2、事件的交（积）：事件AB同时发生，记作
+3、事件互斥（互不相容）：事件A与B不能同时发生，即
+4、对立事件（互逆事件）：两个事件 A 与 B 满足
+，则称A与B互逆，并称B是A的逆事件，记作
+5、事件的差： 事件A发生而B不发生 ，记作（A-B）
+（ 三）古典概型及概率
+1、基本概念
+如果随机试验的样本空间具有如下特征：有限个基本事件；每
+个基本事件发生的可能性相同，那么称这样的随机试验对应的概率模
+型为古典模型，如掷硬币、掷骰子的试验等。
+设古典概型中随机试验样本空间由n个基本事件组成，随机
+事件A包含k个基本事件，则称事件A发生的概率为
+2、基本理论
+（1） P（A+B）＝P（A）+P（B）－P（AB）
+第 60 页
+
+===== [page 62] =====
+AB相互独立，P（AB）＝P（A）P（B）
+（2）P（A-B）＝P（A）－P（AB）
+（3）P（ ）=1-P(A)
+（4） (条件概率)
+（5）无重复排列种数计算公式:
+（6）组合种数的计算公式:
+（7）条件概率公式：
+（四）离散型随机变量及其概率分布
+1、离散型随机变量
+若随机变量X只取有限多个或可列无限多个值，则称X为离散型
+随机变量，每个变量对应的概率之和为1。
+2、离散型随机变量的数字特征
+（1）期望：
+设离散型随机变量 X 的分布规律为 ，则称
+为随机变量X的数学期望，简称期望或均值 ，记为E(X)
+第 61 页
+
+===== [page 63] =====
+（2）方差：
+3、离散型随机变量分布函数
+要注意 的值不是 取值 时的概率，而是在 整个区
+间上 取值的“累积概率”的值，即
+第 62 页
+
+===== [page 64] =====
+【专升本】
+常考、易考点手册
+政治
+第 63 页
+
+===== [page 65] =====
+目录
+第一部分 马克思主义哲学原理
+第一章 马克思主义哲学是科学的世界观和方法论..................66
+第二章 世界多样性与物质统一性............................................69
+第三章 事物的联系、发展及其规律........................................74
+第四章 实践和认识及其发展规律............................................78
+第五章 历史观的基本问题和社会发展的基本规律...................81
+第六章 社会历史发展的动力...................................................83
+第二部分 毛泽东思想和中国特色社会主义理论体系概论
+第一章 马克思主义中国化时代化的历史进程与理论成果.........87
+第二章 毛泽东思想及其历史地位.............................................88
+第三章 新民主主义革命理论....................................................89
+第四章 社会主义改造理论........................................................93
+第五章 社会主义建设道路初步探索的理论成果........................95
+第六章 中国特色社会主义理论体系的形成发展........................97
+第七章 邓小平理论...................................................................97
+第八章 “三个代表”重要思想......................................................99
+第九章 科学发展观...................................................................99
+第三部分 习近平新时代中国特色社会主义思想概论
+第一章 习近平新时代中国特色社会主义思想的创立................100
+第二章 新时代坚持和发展中国特色社会主义...........................101
+第三章 以中国式现代化全面推进中华民族伟大复兴................102
+第 64 页
+
+===== [page 66] =====
+第四章 坚持党的全面领导.....................................................103
+第五章 坚持以人民为中心.....................................................103
+第六章 全面深化改革开放.....................................................104
+第七章 推动高质量发展........................................................104
+第八章 社会主义现代化建设的教育、科技、人才战略..........105
+第九章 发展全过程人民民主.................................................105
+第十章 全面依法治国............................................................106
+第十一章 建设社会主义文化强国..........................................107
+第十二章 以保障和改善民生为重点加强社会建设.................107
+第十三章 建设社会主义生态文明..........................................108
+第十四章 维护和塑造国家安全.............................................108
+第十五章 建设巩固国防和强大人民军队...............................109
+第十六章 坚持一国两制和推进祖国完全统一........................109
+第十七章 中国特色大国外交和推动构建人类命运共同体......110
+第十八章 全面从严治党........................................................110
+第 65 页
+
+===== [page 67] =====
+第一部分 马克思主义哲学原理
+第一章 马克思主义哲学是科学的世界观和方法论
+考点 1 哲学是理论化、系统化的世界观
+【题型】【选择题】★★
+①哲学是世界观的理论形态。
+②哲学提供最一般的方法。
+③哲学既是世界观、也是方法论。
+★补充考点：哲学与具体科学是一般与个别关系；哲学具有时代性、
+民族性、阶级性。
+历年真题
+【例题】下列说法错误的是（）
+A.哲学是一门给人智慧的学问
+B.马克思主义哲学是世界观和方法论
+C.世界是物质的
+D.物质是运动的
+【答案】B
+【解析】马克思主义哲学是科学的世界观和方法论，B表述不完整。
+考点 2 哲学的基本问题【重点】
+【题型】【选择题】★★★
+第 66 页
+
+===== [page 68] =====
+哲学的基本问题是思维与存在的关系问题，亦即物质与意识的关系问
+题。凡主张世界的本质是物质，坚持物质第一性、意识第二性，物质
+决定意识的，都属于唯物主义派别；凡断言意识是世界的本质，坚持
+意识第一性、物质第二性，意识决定物质的，则属于唯心主义派别。
+凡是主张思维与存在之间有同一性，即主张思维能够正确认识存在的
+哲学，都属于可知论；凡是主张思维与存在之间没有同一性，即主张
+思维完全不能或不能完全正确认识存在的哲学，都属于不可知论。
+历年真题
+【例题】下列不属于哲学的基本问题的是（）
+A.物质与意识的关系问题
+B.思维能不能反映存在的问题
+C.物质与运动的关系问题
+D.思维与存在谁具有第一性的问题
+【答案】C
+【解析】哲学基本问题是思维和存在（物质和意识）关系问题，包含
+两个方面：何者第一性；思维能否认识存在。物质与运动不属于哲学
+基本问题。
+考点 3 哲学的两个基本派别
+【题型】【选择题】★★★
+唯物主义与唯心主义。①唯物主义所说的“唯物”，是指它们主张物质第
+一性、意识第二性。②唯心主义所说的“唯心”，是指它们主张意识第一
+性、物质第二性。
+★补充考点：唯物主义三种历史形态：古代朴素唯物主义、近代形而
+第 67 页
+
+===== [page 69] =====
+上学唯物主义、辩证唯物主义和历史唯物主义；唯心主义分为主观唯
+心主义、客观唯心主义两种基本形态。近代形而上学唯物主义三大缺
+陷：机械性、形而上学性、不彻底性。
+历年真题
+【例题】下列（）坚持了客观唯心主义的观点
+A.心外无物、心外无理
+B.天地合而万物生，阴阳接而变化起
+C.上帝决定一切
+D.天地合气，万物自生
+【答案】C
+【解析】A主观唯心主义；B、D古代朴素唯物主义；C客观唯心主义。
+考点 4 辩证法与形而上学对世界的理解
+【题型】【选择题】★★
+①辩证法主张用普遍联系、运动和发展的观点去理解世界，认为世界
+是不断变化发展的活的有机整体。
+②形而上学总是用静止、孤立、片面的观点去看世界，其世界图景是
+零散的、绝对的、孤立的拼凑。
+★补充考点：马克思主义哲学的直接理论来源是德国古典哲学；马克
+思主义哲学的基本特征：实践性、科学性、革命性，实践性是马克思
+主义哲学最显著最根本的特征。
+历年真题
+【例题】下列不属于唯物主义历史形态的是（）
+第 68 页
+
+===== [page 70] =====
+A.形而上学与辩证法
+B.古代朴素唯物主义
+C.近代形而上学唯物主义
+D.辩证唯物主义
+【答案】A
+【解析】辩证法、形而上学是两种看待世界的方法论，不属于唯物主
+义历史形态。
+第二章 世界多样性和物质统一性
+考点 1 辩证唯物主义关于物质的观点
+【题型】【选择题、简答题】★★★
+马克思主义哲学对物质的认识集中体现在列宁的物质定义中：“物质是
+标志客观实在的哲学范畴，这种客观实在是人通过感觉感知的，它不
+依赖于我们的感觉而存在，为我们的感觉所复写、摄影、反映。”
+★补充考点：客观实在性是物质的唯一特性；列宁物质定义四点理论
+意义：坚持唯物主义一元论、坚持可知论、克服形而上学唯物论缺陷、
+实现唯物自然观与历史观统一。
+历年真题
+【例题】物质的唯一特性是（）
+A.客观实在性
+B.运动
+C.绝对性
+第 69 页
+
+===== [page 71] =====
+D.相对性
+【答案】A
+【解析】物质唯一特性：客观实在性；物质的根本固有属性：运动。
+考点 2 运动与静止的关系
+【题型】【选择题、简答题】★★★
+1.物质是运动的：整个宇宙从微观世界到宏观世界，从无机界到有机
+界，从自然界到人类社会，从客观世界到主观世界，无一不在运动，
+无时不在变化。
+2.物质和运动不可分割：物质是运动的物质，没有不运动的物质；运
+动是物质的运动，没有脱离物质的运动。
+考点 3 运动的两个属性
+【题型】【选择题】★★★
+运动的绝对性和静止的相对性。
+★补充考点：静止是物质运动在一定条件下的稳定状态，包括空间位
+置不变、事物根本性质暂时未变两种情形；反对绝对运动论（相对主
+义诡辩论）与绝对静止论（形而上学）。
+历年真题
+【例题】下列关于静止相对性的理解错误的是（）
+A.从一定的参考系来看，物体与物体之间，没有发生位置移动，从而
+保持一定的静止
+B.从事物本身来看，处于量变过程中的事物，仍然保持着自身的性质
+第 70 页
+
+===== [page 72] =====
+C.不理解相对静止，也就无法了解运动
+D.不了解相对静止，也能理解物质的多样性。
+【答案】D
+【解析】认识相对静止是理解物质多样性的前提。
+考点 4 规律
+【题型】【选择题、简答题】★★★
+规律，也称为客观规律，就是事物运动发展中的本质的、必然的、稳
+定的联系。客观性是规律的根本特点。
+★补充考点：规律不能被创造、消灭、改变，但人可以认识、利用客
+观规律。
+历年真题
+【例题】下列说法正确的是（）
+A.规律是事物本质的联系
+B.规律是事物外部的联系
+C.规律是事物与事物之间的联系
+D.规律是主观的，因而是可以改变的
+【答案】A
+【解析】规律是事物内部本质、必然、稳定的联系，规律客观，不能
+被人改造创造。
+考点 5 意识的本质
+【题型】【选择题、简答题】★★★
+第 71 页
+
+===== [page 73] =====
+1.从生理基础上看，意识是人脑的机能。
+2.从内容上看，意识是客观存在的反映。
+★补充考点：意识是客观内容和主观形式的统一；意识起源：自然界
+长期发展的产物，也是社会劳动的产物。
+历年真题
+【例题】下列关于意识的说法正确的是（）
+A.意识早于物质世界而存在
+B.意识是客观存在的主观映像
+C.意识就是人脑
+D.意识与劳动毫无关联
+【答案】B
+【解析】物质先于意识，意识是人脑的机能，是社会劳动的产物。
+考点 6 物质和意识的辩证关系【重点】
+【题型】【选择题、简答题、辨析题】★★★
+1.物质决定意识。
+2.意识对物质具有能动的反作用。正确意识促进事物发展，错误意识
+阻碍事物发展。
+历年真题
+【简答真题】简述物质与意识的辩证关系。
+【参考答案】①物质决定意识，物质第一性，意识第二性；②意识对
+物质具有能动反作用。正确意识促进客观事物发展，错误意识阻碍客
+观事物发展。
+第 72 页
+
+===== [page 74] =====
+考点 7 主观能动性与客观规律性的关系【重点】
+【题型】【选择题、简答题、论述题】★★★
+尊重客观规律性和发挥主观能动性是辩证统一的。
+1.尊重客观规律是发挥主观能动性的前提。
+2.认识和利用规律又必须发挥人的主观能动性。
+历年真题
+【例题】正确发挥意识能动作用的客观前提是（）
+A.个人积极性的发挥
+B.集体智慧的调动
+C.解放思想
+D.对客观规律的正确反映
+【答案】D
+【解析】尊重、正确认识客观规律是发挥主观能动性的客观前提。
+考点 8 坚持一切从实际出发、实事求是
+【题型】【选择题、简答题】★★
+一切从实际出发，也就是实事求是。所谓实事求是，就是从客观实际
+出发，找出事物发展的规律，按规律办事。在实践中，坚持一切从实
+际出发、实事求是，就要与时俱进、解放思想。
+★补充考点：世界物质统一性原理是一切从实际出发、实事求是哲学
+理论依据。
+历年真题
+第 73 页
+
+===== [page 75] =====
+【辨析题真题】“世界统一于存在”。
+【参考答案】错误。世界统一于物质，不是统一于存在。存在既包含
+物质也包含精神。
+第三章 事物的联系、发展及其规律
+考点 1 唯物辩证法的总特征
+【题型】【选择题、简答题】★★★
+普遍联系的观点和永恒发展的观点。
+★补充考点：联系具有普遍性、客观性、多样性、条件性；发展的实
+质是新事物的产生和旧事物的灭亡。
+历年真题
+【例题】唯物辩证法的总特征是（）
+A.联系的观点
+B.发展的观点
+C.联系和发展的观点
+D.对立统一规律
+【答案】C
+【解析】对立统一是唯物辩证法的实质与核心，联系、发展是总特征。
+考点 2 唯物辩证法的基本规律
+【题型】【选择题】★★★
+第 74 页
+
+===== [page 76] =====
+对立统一、质量互变、否定之否定。
+★补充考点：对立统一规律（矛盾规律）是唯物辩证法的实质与核心。
+考点 3 矛盾
+【题型】【选择题】★★
+我们把这种事物内部两方面之间既对立又统一的关系称为矛盾，简言
+之，矛盾就是对立统一。
+考点 4 矛盾的基本属性：同一性和斗争性【重点】
+【题型】【选择题、简答题、论述题】★★★
+矛盾的两种基本属性是指矛盾具有同一性和斗争性（或称统一性和对
+立性）。矛盾的统一性是指矛盾者的对立面相互依存，相互贯通的性
+质和趋势，矛盾的斗争性是矛盾者的对立面相互排斥，相互分离的性
+质和趋势。矛盾的同一性和斗争性相互联结、相辅相成。矛盾的同一
+性是有条件的、相对的，矛盾的斗争性是无条件的，绝对的。矛盾的
+同一性和斗争性相结合构成了事物的矛盾运动，推动着事物的变化发
+展。
+历年真题
+【例题】矛盾的基本属性的是（）
+A.矛盾的多样性
+B.矛盾的普遍性
+C.矛盾的斗争性
+D.矛盾的同一性和斗争性
+第 75 页
+
+===== [page 77] =====
+【答案】D
+考点 5 内因与外因的关系
+【题型】【选择题、简答题】★★★
+1.内因是事物发展变化的根据，是第一位的原因；2.外因是事物存在和
+发展的必要条件，是事物变化发展所不可缺少的因素；3.外因作为条
+件通过内因而起作用。
+历年真题
+【简答真题】简述内因外因辩证关系。
+【参考答案】内因是事物发展的内部矛盾，是事物发展的根据，第一
+位原因；外因是外部矛盾，是发展必要条件；外因必须通过内因起作
+用。
+考点 6 坚持两点论和重点论的统一
+【题型】【选择题、论述题】★★★
+1.坚持重点论，就必须坚持以经济建设为中心，集中力量发展生产力。
+2.坚持两点论，我们还要注意解决好其他社会矛盾，坚持“两手抓”，一
+手抓物质文明建设，一手抓精神文明建设等。
+★补充考点：矛盾普遍性要求敢于承认矛盾、分析矛盾；矛盾特殊性
+要求具体问题具体分析，是马克思主义活的灵魂；矛盾普遍性和特殊
+性辩证关系原理是矛盾问题的精髓。主要矛盾、次要矛盾；矛盾主要
+方面、次要方面。
+第 76 页
+
+===== [page 78] =====
+考点 7 量变质变规律的方法论意义
+【题型】【选择题、简答题、论述题】★★★
+1.平时要重视量的积累。2.要不失时机促进事物的发展。3.要掌握适度
+原则。
+★补充考点：量变是事物数量、场所的变更；质变是事物性质根本变
+化；量变是质变必要准备，质变是量变必然结果。量变和质变相互渗
+透。
+历年真题
+【论述真题】试述量变与质变辩证关系及其现实意义。
+【参考答案】①量变是质变必要准备；②质变是量变必然结果；③量
+变和质变相互渗透；④方法论：重视量的积累；把握适度原则；时机
+成熟，促成质变。现实意义：个人成长、社会建设都需要脚踏实地积
+累，抓住机遇实现飞跃。
+考点 8 辩证否定观的方法论要求
+【题型】【选择题、简答题】★★★
+1.要求人们在观察和思考事物时要釆取科学的态度和方法；2.要防止绝
+对化、简单化；3.既不能不加分析地肯定一切，也不能不加分析地否
+定一切。
+★补充考点：辩证否定实质是“扬弃”，即既克服又保留；否定之否定
+规律揭示事物发展前进性与曲折性统一。
+历年真题
+第 77 页
+
+===== [page 79] =====
+【例题】下列不属于辩证的否定观方法论要求的是（）。
+A.在观察和思考事物时要采取科学的立场和方法
+B.要防止绝对化、简单化
+C.要坚持一切从实际出发、实事求是
+D.既不能不加分析地肯定一切，也不能不加分析地否定一切
+【答案】C
+【解析】C是世界物质统一性原理的方法论，不属于辩证否定观。
+考点 9 现象与本质辩证关系的方法论意义
+【题型】【选择题】★★
+透过现象看本质。
+★补充考点：现象分为真象与假象；假象也是客观的，不是主观错觉。
+考点 10 内容和形式的方法论意义
+【题型】【选择题】★★
+1.内容决定形式，在观察处理问题时，首先注重事物的内容，要善于
+透过形式揭示事物的内容。2.反对忽视内容，只追求形式的形式主义。
+考点 11 必然性和偶然性的方法论意义
+【题型】【选择题】★★
+1.人们在实践中要立足于必然性，根据必然性规律来规划自己的行动，
+才能取得工作的成功。2.要重视和善于利用一切有利的偶然因素，防
+第 78 页
+
+===== [page 80] =====
+止不利的偶然因素的影响。
+第四章 实践和认识及其发展规律
+考点 1 实践的含义、特征及基本形式
+【题型】【选择题、简答题】★★★
+1.含义：实践是人类能动地改造和探索现实世界的一切社会性的物质
+活动。
+2.特征：实践是客观的物质活动；实践是自觉的能动的活动；实践是
+社会的历史的活动。
+3.基本形式：①生产实践；②处理社会关系的实践；③科学实验。
+历年真题
+【例题】下列（）不是实践的基本特点
+A.客观物质性
+B.主观能动性
+C.社会历史性
+D.普遍多样性
+【答案】D
+考点 2 实践对认识的决定作用的具体表现
+【题型】【选择题、简答题、论述题】★★★
+1.实践是认识的来源。2.实践是认识发展的动力。3.实践是检验认识正
+确与否的唯一标准。4.实践是认识的最终目的。
+第 79 页
+
+===== [page 81] =====
+历年真题
+【简答真题】简述实践是认识的基础。
+【参考答案】实践对认识具有决定作用：①实践是认识的来源；②实
+践是认识发展的动力；③实践是检验认识真理性唯一标准；④实践是
+认识的目的。
+考点 3 认识的辩证发展过程
+【题型】【选择题、简答题】★★★
+人们对客观事物的认识是一个辩证发展的过程，是在实践基础上由感
+性认识到理性认识（第一次飞跃），又由理性认识到实践（第二次飞
+跃）不断反复、无限发展的过程。
+★补充考点：感性认识包括感觉、知觉、表象；理性认识包括概念、
+判断、推理；第二次飞跃（理性认识到实践）意义更为重大。认识具
+有反复性、无限性、上升性。
+历年真题
+【简答真题】简述认识的辩证发展过程。
+【参考答案】认识在实践基础上，从感性认识飞跃到理性认识（第一
+次飞跃）；理性认识再回到实践（第二次飞跃）；实践、认识、再实
+践、再认识，循环往复，无限发展。
+考点 4 用真理指导实践的体现与实际运用
+【题型】【选择题、简答题、论述题】★★★
+1.体现：真理可以指导人们自觉地尊重客观规律，按客观规律办事，
+第 80 页
+
+===== [page 82] =====
+这是使实践活动取得成功的根本保证。
+2.实际运用：如在毛泽东思想指引下，我们党团结人民取得了新民主
+主义革命的伟大胜利，并取得了社会主义革命和建设的巨大成就。
+★补充考点：真理的根本属性是客观性；真理是绝对性和相对性统一；
+实践作为检验真理标准具有确定性与不确定性。
+历年真题
+【论述真题】论述实践是检验认识真理性的唯一标准。
+【参考答案】①由真理本性决定：真理是主观符合客观，主观、客观
+单独不能检验；②由实践的直接现实性特点决定；③主观认识回到实
+践，如果达到预期效果，证明是真理，反之不是真理；④要在实践中
+不断检验、发展真理。
+第五章 历史观的基本问题和社会发展的基本规律
+考点 1 历史观的基本问题
+【题型】【选择题、简答题】★★★
+社会历史观简称历史观，是人们对社会历史的根本观点和总的看法。
+社会历史观的基本问题是社会存在和社会意识之间的关系问题。
+★补充考点：唯物史观（历史唯物主义）主张社会存在决定社会意识；
+唯心史观主张社会意识决定社会存在。唯心史观两大缺陷：夸大精神
+力量；否认人民群众历史创造作用。
+历年真题
+【简答真题】简述社会存在与社会意识的辩证关系。
+第 81 页
+
+===== [page 83] =====
+【参考答案】社会存在决定社会意识；社会意识反作用于社会存在，
+先进社会意识促进社会发展，落后社会意识阻碍社会发展；社会意识
+具有相对独立性。
+考点 2 社会存在与社会意识
+【题型】【选择题】★★★
+1.社会存在指社会生活的物质方面，是社会物质活动和物质生活各种
+条件的总和。
+2.社会意识指社会生活的精神方面，是社会精神活动和精神生活的总
+和。
+★补充考点：社会意识具有相对独立性，社会意识反作用于社会存在。
+考点 3 生产方式在社会发展中的作用
+【题型】【选择题】★★★
+在物质生活、政治生活、精神生活等全部社会生活中，社会的物质生
+活具有决定的意义；而在地理环境、人口因素、生产方式等全部社会
+物质生活中，生产方式又具有决定的意义。因此，在影响社会历史发
+展的各种要素中，起着最终的决定性作用的是生产方式。
+★补充考点：地理环境、人口因素是社会存在发展重要条件，但不起
+决定作用。
+历年真题
+【例题】下列说法错误的是（）。
+A.地理环境、人口因素在社会发展中具有重要作用
+第 82 页
+
+===== [page 84] =====
+B.生产方式是一定生产力和生产关系的统一
+C.生产方式在社会历史发展中具有决定性作用
+D.人口因素在社会历史发展中具有决定性作用
+【答案】D
+【解析】人口是重要条件，但不起决定性作用；生产方式起决定性作
+用。
+考点 4 上层建筑
+【题型】【选择题】★★
+上层建筑包括思想上层建筑和政治上层建筑两个部分。
+思想上层建筑是指由政治、法律、道德、艺术、社会科学、宗教、哲
+学等各种观点构成的意识形态体系，也称社会意识形态。这一部分反
+映的是人们的思想关系。
+政治上层建筑是指包括国家政权、政治制度、法律制度以及军队、警
+察、法院、监狱等在内的制度和设施。它所体现的是人们之间的政治
+关系。
+考点 5 国家政权
+【题型】【选择题】★★
+国家政权是社会政治结构的核心。国家政权是政治体系运行的基本设
+置。国家政权是最主要、最强有力的阶级斗争工具，一切政治斗争都
+是围绕国家政权问题展开的。
+★补充考点：国家本质是阶级统治工具，阶级性是国家的根本属性。
+第 83 页
+
+===== [page 85] =====
+第六章 社会历史发展的动力
+考点 1 生产力和生产关系的矛盾运动
+【题型】【选择题、简答题、论述题】★★★
+生产力和生产关系是生产方式的两个方面。生产力决定生产关系，生
+产关系反作用于生产力，生产力和生产关系之间的矛盾运动，构成了
+生产关系必须适应生产力状况的规律。
+★补充考点：生产力实体要素：劳动者、劳动资料、劳动对象；劳动
+者是生产力中最活跃主导因素。
+历年真题
+【简答真题】简述生产力与生产关系之间的辩证关系。
+【参考答案】①生产力决定生产关系：生产力水平决定生产关系性质；
+生产力发展推动生产关系变革。②生产关系反作用于生产力：适合生
+产力就促进；不适合就阻碍生产力发展。
+考点 2 经济基础和上层建筑的矛盾运动
+【题型】【选择题、简答题】★★★
+经济基础决定上层建筑，上层建筑反作用于经济基础，经济基础和上
+层建筑之间存在着 矛盾运动。经济基础和上层建筑之间的关系又构成
+上层建筑适应经济基础状况的规律。
+★补充考点：生产力与生产关系、经济基础与上层建筑的矛盾是人类
+社会基本矛盾，是社会发展根本动力。
+第 84 页
+
+===== [page 86] =====
+历年真题
+【简答真题】简述经济基础与上层建筑之间的关系。
+【参考答案】①经济基础决定上层建筑：决定上层建筑产生、性质、
+变革。②上层建筑反作用经济基础：适合就巩固经济基础；不适合则
+阻碍发展。
+考点 3 改革与革命的区别
+【题型】【选择题、简答题】★★★
+1.性质不同。改革是社会的量变，革命是社会的质变。2.范围不同。改
+革可以广泛开展于社会各个领域，革命集中开展于社会政治领域。3.
+主体不同。改革是统治阶级发动的，革命是被统治阶级发动的。4.目
+的不同。改革是为了维护和完善当前的社会制度，革命是为了彻底推
+翻当前的社会制度。
+★补充考点：社会主义社会改革是社会主义制度自我完善和发展。阶
+级斗争是阶级社会发展直接动力；社会基本矛盾是社会发展根本动力。
+历年真题
+【例题】下列说法错误的是（）
+A.改革的性质是社会的量变；革命的性质是社会的质变
+B.改革的主体是统治阶级；革命的主体是被统治阶级
+C.改革的目的是促进生产力发展；革命的目的是推翻统治阶级政权
+D.改革的范围主要集中在政治领域；革命的范围涉及社会全部领域
+【答案】D
+【解析】改革覆盖社会全部领域；革命主要集中政治领域。
+第 85 页
+
+===== [page 87] =====
+考点 4 科学技术是第一生产力的原因
+【题型】【选择题、简答题】★★★
+1.科学技术是现代社会中生产力的必要要素。2.科学技术是现代社会中
+推动生产力发展的首要要素。
+★补充考点：科学技术是一把双刃剑，要重视科学技术的双重社会效
+应。
+考点 5 人民群众在历史发展中的决定作用的表现
+【题型】【选择题、简答题、论述题】★★★
+历史唯物主义认为，人民群众是历史的创造者，在历史发展中起推动
+作用。这主要表现在：（1）人民群众是社会物质文明的创造者。（2）
+人民群众是社会精神文明的创造者。（3）人民群众是实现社会变革的
+决定力量。
+历年真题
+【论述真题】从唯物史观角度，说明为什么要坚持以人民为中心。
+【参考答案】唯物史观，人民群众是历史创造者：①人民群众创造社
+会物质财富；②创造社会精神财富；③是社会变革的决定力量。因此
+要坚持人民主体地位，坚持以人民为中心。
+考点 6 无产阶级政党的群众路线
+【题型】【选择题、简答题】★★★
+一切为了群众，一切依靠群众；从群众中来，到群众中去。群众路线
+第 86 页
+
+===== [page 88] =====
+是贯穿于我们党的政治路线、思想路线和组织路线之中的根本的工作
+路线，是我们党在一切工作中克敌制胜的法宝，是历史唯物主义关于
+人民群众是历史的创造者重要原理的生动体现。
+★补充考点：评价历史人物坚持历史分析法和阶级分析法。
+第二部分 毛泽东思想和中国特色社会主义理论
+体系概论
+第一章 马克思主义中国化时代化的历史进程与理论成
+果
+【题型】【选择题、简答题】★★★
+★考点1：马克思主义中国化时代化的科学内涵：把马克思主义基本
+原理同中国具体实际相结合、同中华优秀传统文化相结合（“两个结
+合”）。
+★考点2：理论飞跃：①毛泽东思想实现马克思主义中国化第一次历
+史性飞跃；②中国特色社会主义理论体系实现马克思主义中国化新的
+飞跃；③习近平新时代中国特色社会主义思想实现马克思主义中国化
+时代化新的飞跃。
+★考点3：重要论断：中国共产党为什么能，中国特色社会主义为什
+么好，归根到底是马克思主义行，是中国化时代化的马克思主义行。
+★考点4：马克思主义中国化时代化理论成果：毛泽东思想、邓小平
+理论、“三个代表”重要思想、科学发展观、习近平新时代中国特色社
+第 87 页
+
+===== [page 89] =====
+会主义思想。
+历年真题
+【例题】六届六中全会上提出“马克思主义中国化”命题的报告是（）
+A.《论新阶段》B.《论十大关系》C.《新民主主义论》D.《实践论》
+【答案】A
+【解析】毛泽东六届六中全会《论新阶段》，首次正式提出马克思主
+义中国化命题。
+第二章 毛泽东思想及其历史地位
+考点 1 毛泽东思想活的灵魂
+【题型】【选择题、简答题】★★★
+实事求是、群众路线、独立自主。
+★补充考点：中共七大把毛泽东思想确立为党的指导思想。实事求是
+是毛泽东思想精髓。
+历年真题
+【简答真题】简述毛泽东思想活的灵魂。
+【参考答案】实事求是、群众路线、独立自主。
+考点 2 毛泽东思想的主要内容
+【题型】【选择题】★★
+①新民主主义革命理论。②社会主义革命和社会主义建设理论。③人
+第 88 页
+
+===== [page 90] =====
+民军队建设和军事战略思想。④政策和策略思想。⑤思想政治工作和
+文化工作思想。⑥党的建设。
+考点 3 毛泽东思想的历史地位
+【题型】【选择题、简答题】★★
+①夺取中国革命胜利的思想武器。②社会主义中国立国建国的思想政
+治基础。③邓小平理论的思想渊源和理论先导。④中华民族团结振兴
+的精神支柱。
+第三章 新民主主义革命理论
+考点 1 近代中国社会最基本的国情
+【题型】【选择题】★★★
+半殖民地半封建社会，突出表现就是：外无民族独立，内无人民民主。
+历年真题
+【例题】近代中国最基本国情是（）
+A.资本主义社会B.半殖民地半封建社会C.社会主义社会D.封建社
+会
+【答案】B
+考点 2 近代中国社会的主要矛盾
+【题型】【选择题、简答题】★★★
+第 89 页
+
+===== [page 91] =====
+①帝国主义和中华民族之间的民族矛盾（最主要的矛盾）。②封建主
+义和人民大众之间的阶级矛盾，是近代中国社会的两大主要矛盾。
+历年真题
+【简答真题】简述近代中国社会两大主要矛盾。
+【参考答案】帝国主义与中华民族矛盾（最主要）；封建主义和人民
+大众的矛盾。
+考点 3 近代中国民族民主革命的主要任务
+【题型】【选择题】★★★
+反帝反封建，即反对帝国主义的压迫，争取民族的独立；反对封建主
+义的统治，争取人民的解放。
+考点 4 新民主主义革命和旧民主主义革命的关系
+【题型】【选择题、简答题】★★★
+1.联系：同属于资产阶级民主主义革命。
+2.区别：①革命领导权不同。②革命指导思想不同。③革命目标不同。
+历年真题
+【例题】新旧民主主义革命相同点是（）
+A.领导权B.革命性质C.指导思想D.前途
+【答案】B
+【解析】二者都属于资产阶级民主主义革命，革命性质相同。
+考点 5 新民主主义革命的总路线
+第 90 页
+
+===== [page 92] =====
+【题型】【选择题、简答题】★★★
+1948年，毛泽东《在晋绥干部会议上的讲话》中提出的：“无产阶级
+领导的，人民大众的，反对帝国主义、封建主义和官僚资本主义的革
+命。”
+考点 6 新民主主义革命的对象、动力、领导力量、性
+质和前途
+【题型】【选择题、简答题】★★★
+①对象是帝国主义、封建主义、官僚资本主义（三座大山）。②动力
+是无产阶级、农民阶级、城市小资产阶级、民族资产阶级。③领导力
+量是无产阶级领导。④性质是资产阶级民主主义革命。⑤前途是社会
+主义而非资本主义。
+★补充考点：农民是中国革命主力军，工农联盟是革命最主要同盟军。
+历年真题
+【例题】新民主主义革命的领导力量是（）
+A.农民阶级B.无产阶级C.民族资产阶级D.城市小资产阶级
+【答案】B
+考点 7 新民主主义革命的政治纲领
+【题型】【选择题、简答题】★★★
+推翻帝国主义和封建主义压迫，建立无产阶级领导的，以工农联盟为
+基础的，一切反帝反封建的人民联合专政的新民主主义共和国。
+第 91 页
+
+===== [page 93] =====
+考点 8 新民主主义革命的经济纲领
+【题型】【选择题、简答题】★★★
+两没收、一保护：没收封建地主阶级的土地归农民所有，没收官僚垄
+断资本归新民主主义国家所有，保护民族工商业。
+历年真题
+【简答真题】简述新民主主义三大经济纲领。
+【参考答案】没收封建地主土地归农民所有；没收官僚资本归新民主
+主义国家所有；保护民族工商业（两没收一保护）。
+考点 9 新民主主义革命的文化纲领
+【题型】【选择题】★★★
+无产阶级领导的人民大众的反帝反封建的文化，即民族的科学的大众
+的文化。
+考点 10 新民主主义革命的道路
+【题型】【选择题、简答题】★★★
+农村包围城市、武装夺取全国政权的道路。
+历年真题
+【例题】三湾改编的核心创新（）
+A.开展土地革命B.支部建在连上C.建立根据地D.武装起义
+【答案】B
+第 92 页
+
+===== [page 94] =====
+考点 11 三大法宝
+【题型】【选择题、简答题】★★★
+统一战线、武装斗争、党的建设。
+历年真题
+【简答真题】简述新民主主义革命三大法宝。
+【参考答案】统一战线；武装斗争；党的建设。
+第四章 社会主义改造理论
+考点 1 新民主主义社会的性质
+【题型】【选择题】★★★
+过渡性的社会。
+★补充考点：新民主主义社会存在国营经济、合作社经济、个体经济、
+私人资本主义经济、国家资本主义经济五种经济成分。
+历年真题
+【例题】新中国成立之后我国进入（）
+A.社会主义社会B.新民主主义社会C.资本主义社会D.共产主义
+【答案】B
+考点 2 党在过渡时期的总路线
+【题型】【选择题、简答题】★★★
+第 93 页
+
+===== [page 95] =====
+1.核心内容是“一化三改”：“一化”指逐步实现国家的社会主义工业化；
+“三改”指逐步实现对个体农业、手工业和资本主义工商业的社会主义改
+造。
+2.显著特点是建设改造同时并举。“工业化”是主体，“三大改造”是两翼。
+历年真题
+【例题】过渡时期总路线的“一体”是（）
+A.社会主义工业化B.三大改造C.发展重工业D.土地改革
+【答案】A
+考点 3 个体农业的社会主义改造
+【题型】【选择题】★★★
+①社会主义萌芽性质的农业生产互助组。②半社会主义性质的初级农
+业合作社。③完全社会主义性质的高级社。
+考点 4 个体手工业的社会主义改造
+【题型】【选择题】★★★
+采取积极领导、稳步前进的方针。①社会主义因素的手工业供销小组。
+②半社会主义性质的手工业供销合作社。③完全社会主义性质的手工
+业生产合作社。
+考点 5 资本主义工商业的社会主义改造
+【题型】【选择题】★★★
+第 94 页
+
+===== [page 96] =====
+和平赎买。
+★补充考点：国家资本主义是改造资本主义工商业主要形式。
+考点 6 社会主义制度的确立
+【题型】【选择题、简答题】★★★
+①到1956年底，社会主义改造基本完成后，社会主义制度已基本确立。
+②1954年9月，第一届全国人民代表大会通过了《中华人民共和国宪
+法》。
+★补充考点：社会主义改造完成标志我国进入社会主义初级阶段。
+历年真题
+【简答真题】简述1956年三大改造完成的历史意义。
+【参考答案】标志我国社会主义基本制度确立；实现生产资料私有制
+向公有制转变；我国进入社会主义初级阶段。
+第五章 社会主义建设道路初步探索的理论成果
+考点 1 社会主义社会的矛盾
+【题型】【选择题、简答题】★★★
+社会主义社会还存在着敌我矛盾和人民内部的矛盾。人民内部的矛盾，
+是在人民利益根本一致的基础上的矛盾。敌我之间的矛盾是对抗性的
+矛盾。前者是分清敌我的问题，用专政的办法解决；后者是分清是非
+的问题，只能用民主的方法、说服教育的方法解决。
+第 95 页
+
+===== [page 97] =====
+★补充考点：《关于正确处理人民内部矛盾的问题》1957年发表；社
+会主义社会基本矛盾仍然是生产力与生产关系、经济基础与上层建筑
+矛盾。
+历年真题
+【例题】《关于正确处理人民内部矛盾的问题》区分两类矛盾，人民
+内部矛盾处理方法（）
+A.专政B.民主说服教育C.暴力镇压D.阶级斗争
+【答案】B
+考点 2 《论十大关系》的重要观点
+【题型】【选择题】★★★
+1956年4月,毛泽东发表《论十大关系》重要讲话，①正式提出了探
+索中国社会主义建设道路的任务，②提出了调动一切积极因素为社会
+主义事业服务的基本方针。③首先阐述了重工业和轻工业、农业的关
+系。
+历年真题
+【例题】1956年《论十大关系》提出基本方针（）
+A.以阶级斗争为纲B.调动一切积极因素为社会主义事业服务C.改革
+开放D.一国两制
+【答案】B
+考点 3 初步探索的意义
+【题型】【选择题】★★
+第 96 页
+
+===== [page 98] =====
+①它标志着中国共产党人开始摆脱苏联模式；②为中共十一届三中全
+会后逐步形成的邓小平理论提供了重要的思想材料；③被实践证明了
+的关于中国社会主义建设的正确的理论原则和经验总结。
+第六章 中国特色社会主义理论体系的形成发展
+【题型】【选择题】★★★
+★考点1：中国特色社会主义理论体系组成：邓小平理论、“三个代表”
+重要思想、科学发展观、习近平新时代中国特色社会主义思想。不包
+含毛泽东思想。
+★考点2：历史起点：党的十一届三中全会开启改革开放和建设中国
+特色社会主义历史新时期。
+★考点3：精髓：解放思想、实事求是、与时俱进、求真务实。
+★考点4：邓小平理论：开创中国特色社会主义；“三个代表”重要思
+想：把中国特色社会主义推向21世纪；科学发展观：在新历史起点坚
+持发展中国特色社会主义。
+历年真题
+【例题】下列不属于中国特色社会主义理论体系的是（）
+A.邓小平理论B.毛泽东思想C.科学发展观D.习近平新时代中国特
+色社会主义思想
+【答案】B
+第七章 邓小平理论
+第 97 页
+
+===== [page 99] =====
+考点 1 邓小平理论回答的基本问题
+【题型】【选择题、简答题】★★★
+什么是社会主义，怎样建设社会主义。
+★补充考点：社会主义本质：解放生产力，发展生产力，消灭剥削，
+消除两极分化，最终达到共同富裕。我国处在社会主义初级阶段是最
+大实际。社会主义初级阶段基本路线：一个中心，两个基本点。“三个
+有利于”判断标准。
+历年真题
+【简答真题】简述社会主义本质。
+【参考答案】解放生产力，发展生产力，消灭剥削，消除两极分化，
+最终达到共同富裕。
+考点 2 邓小平理论的历史地位
+【题型】【选择题、简答题】★★★
+邓小平理论是马克思列宁主义同中国实际相结合的第二次历史性飞跃
+的理论成果，是马克思主义基本原理同当代中国实践和时代特征相结
+合的产物。
+★补充考点：中共十五大，邓小平理论确立为党的指导思想。
+历年真题
+【简答真题】简述邓小平理论的历史地位。
+【参考答案】①开拓马克思主义新境界；②深化对社会主义的科学认
+识；③对时代形势做出科学判断；④中国特色社会主义理论体系开篇
+第 98 页
+
+===== [page 100] =====
+之作，改革开放现代化建设的科学指南。
+第八章 “三个代表”重要思想
+考点 1 “三个代表”重要思想的集中概括
+【题型】【选择题、简答题】★★★
+中国共产党必须始终代表中国先进生产力的发展要求，代表中国先进
+文化的前进方向，代表中国最广大人民的根本利益。
+历年真题
+【简答真题】简述“三个代表”重要思想集中概括。
+【参考答案】党始终代表中国先进生产力的发展要求；代表中国先进
+文化的前进方向；代表中国最广大人民的根本利益。
+考点 2 “三个代表”重要思想回答的基本问题
+【题型】【选择题】★★★
+建设什么样的党、怎样建设党。
+★补充考点：中共十六大把“三个代表”重要思想确立为党的指导思想；
+立党之本、执政之基、力量之源。
+第九章 科学发展观
+考点 1 科学发展观回答的基本问题
+第 99 页
+
+===== [page 101] =====
+【题型】【选择题】★★★
+实现什么样的发展、怎样发展。
+考点 2 科学发展观的内涵
+【题型】【选择题、简答题】★★★
+①发展是第一要义。②全面、协调、可持续。③坚持以人为本。
+★补充考点：以人为本是核心；基本要求全面协调可持续；根本方法
+统筹兼顾；中共十八大确立科学发展观为党的指导思想。
+历年真题
+【例题】科学发展观的核心是（）
+A.发展B.以人为本C.全面协调可持续D.统筹兼顾
+【答案】B
+第三部分 习近平新时代中国特色社会主义思想
+概论
+第一章 习近平新时代中国特色社会主义思想的创立
+【题型】【选择题、简答题】★★★
+★考点1：时代课题：新时代坚持和发展什么样的中国特色社会主义、
+怎样坚持和发展中国特色社会主义；建设什么样的社会主义现代化强
+国、怎样建设社会主义现代化强国；建设什么样的长期执政的马克思
+主义政党、怎样建设长期执政的马克思主义政党。
+第 100 页
+
+===== [page 102] =====
+★考点2：创立条件：世界正经历百年未有之大变局；中华民族伟大
+复兴进入关键时期；科学社会主义焕发新生机；党自我革命伟大实践。
+★考点3：定位：当代中国马克思主义、二十一世纪马克思主义，是
+中华文化和中国精神的时代精华，实现马克思主义中国化时代化新的
+飞跃。
+★考点4：主要内容：十个明确、十四个坚持、十三个方面成就。
+历年真题
+【例题】习近平新时代中国特色社会主义思想实现了（）
+A.马克思主义中国化第一次飞跃B.马克思主义中国化时代化新的飞
+跃C.没有飞跃D.第二次飞跃
+【答案】B
+第二章 新时代坚持和发展中国特色社会主义
+【题型】【选择题、简答题】★★★
+★考点1：中国特色社会主义是改革开放以来党的全部理论和实践的
+主题。
+★考点2：新时代社会主要矛盾：人民日益增长的美好生活需要和不
+平衡不充分的发展之间的矛盾。
+★考点3：两个没有变：我国仍处于并将长期处于社会主义初级阶段
+基本国情没有变；我国是世界最大发展中国家国际地位没有变。
+★考点4：十四个坚持（新时代坚持和发展中国特色社会主义基本方
+略）。
+历年真题
+【例题】新时代我国社会主要矛盾是（）
+第 101 页
+
+===== [page 103] =====
+A.阶级矛盾B.人民日益增长的美好生活需要和不平衡不充分的发展
+之间的矛盾C.物质文化需要同落后生产矛盾D.敌我矛盾
+【答案】B
+第三章 以中国式现代化全面推进中华民族伟大复兴
+【题型】【选择题、简答题、论述题】★★★
+★考点1：中国式现代化定义：中国共产党领导的社会主义现代化。
+★考点2：中国式现代化五大中国特色：人口规模巨大的现代化；全
+体人民共同富裕的现代化；物质文明和精神文明相协调的现代化；人
+与自然和谐共生的现代化；走和平发展道路的现代化。
+★考点3：中国式现代化的本质要求：坚持中国共产党领导，坚持中
+国特色社会主义，实现高质量发展，发展全过程人民民主，丰富人民
+精神世界，实现全体人民共同富裕，促进人与自然和谐共生，推动构
+建人类命运共同体，创造人类文明新形态。
+★考点4：两步走战略安排：2020‑ 2035基本实现社会主义现代化；
+2035‑ 本世纪中叶建成富强民主文明和谐美丽社会主义现代化强国。
+★考点5：推进中国式现代化重大原则：坚持和加强党的全面领导；
+坚持中国特色社会主义道路；坚持以人民为中心的发展思想；坚持深
+化改革开放；坚持发扬斗争精神。
+历年真题
+【简答真题】简述中国式现代化五个中国特色。
+【参考答案】人口规模巨大；全体人民共同富裕；物质文明和精神文
+明相协调；人与自然和谐共生；走和平发展道路的现代化。
+第 102 页
+
+===== [page 104] =====
+第四章 坚持党的全面领导
+【题型】【选择题、简答题】★★★
+★考点1：中国共产党领导是中国特色社会主义最本质的特征，是中
+国特色社会主义制度最大优势。
+★考点2：“两个确立”决定性意义；“两个维护”：坚决维护习近平总
+书记党中央的核心、全党的核心地位，坚决维护党中央权威和集中统
+一领导。
+★考点3：党的领导是全面的、系统的、整体的；党的领导制度是我
+国根本领导制度。
+历年真题
+【例题】中国特色社会主义最本质的特征是（）
+A.人民当家作主B.中国共产党领导C.依法治国D.市场经济
+【答案】B
+第五章 坚持以人民为中心
+【题型】【选择题、简答题、论述题】★★★
+★考点1：江山就是人民，人民就是江山；人民对美好生活的向往就
+是我们的奋斗目标。
+★考点2：以人民为中心发展思想内涵：发展为了人民、发展依靠人
+民、发展成果由人民共享。
+★考点3：人民是历史创造者，是决定党和国家前途命运的根本力量。
+★考点4：扎实推进共同富裕，共同富裕是社会主义的本质要求。
+第 103 页
+
+===== [page 105] =====
+第六章 全面深化改革开放
+【题型】【选择题、简答题】★★★
+★考点1：改革开放是决定当代中国命运的关键一招，也是决定实现
+中华民族伟大复兴关键一招。
+★考点2：全面深化改革总目标：完善和发展中国特色社会主义制度，
+推进国家治理体系和治理能力现代化。
+★考点3：全面深化改革方向：坚持社会主义方向；改革要坚持问题
+导向；正确处理改革发展稳定关系。
+★考点4：推进高水平对外开放，稳步扩大制度型开放。
+历年真题
+【例题】全面深化改革总目标是（）
+A.实现共同富裕B.完善和发展中国特色社会主义制度，推进国家治理
+体系和治理能力现代化C.全盘西化D.消灭私有制
+【答案】B
+第七章 推动高质量发展
+【题型】【选择题、简答题、论述题】★★★
+★考点1：高质量发展是全面建设社会主义现代化国家首要任务。我
+国经济由高速增长转向高质量发展。
+★考点2：完整、准确、全面贯彻创新、协调、绿色、开放、共享新
+发展理念。
+★考点3：构建以国内大循环为主体、国内国际双循环相互促进的新
+发展格局。
+第 104 页
+
+===== [page 106] =====
+★考点4：建设现代化经济体系；大力发展新质生产力；实施乡村振
+兴战略；实施区域协调发展战略。
+历年真题
+【例题】全面建设社会主义现代化国家首要任务是（）
+A.高速增长B.高质量发展C.阶级斗争D.扩大出口
+【答案】B
+第八章 社会主义现代化建设的教育、科技、人才战略
+【题型】【选择题、简答题】★★★
+★考点1：教育、科技、人才是全面建设社会主义现代化国家的基础
+性、战略性支撑。
+★考点2：必须坚持科技是第一生产力、人才是第一资源、创新是第
+一动力。
+★考点3：教育优先发展战略；办好人民满意的教育。
+★考点4：坚持创新驱动发展，实现高水平科技自立自强。
+★考点5：人才强国战略，建设规模宏大、结构合理、素质优良人才
+队伍。
+历年真题
+【例题】全面建设社会主义现代化国家基础性战略性支撑是（）
+A.工业B.教育、科技、人才C.国防D.外贸
+【答案】B
+第九章 发展全过程人民民主
+第 105 页
+
+===== [page 107] =====
+【题型】【选择题、简答题、论述题】★★★
+★考点1：全过程人民民主是社会主义民主政治的本质属性，是最广
+泛、最真实、最管用的民主。
+★考点2：全过程人民民主五大环节：民主选举、民主协商、民主决
+策、民主管理、民主监督。
+★考点3：我国根本政治制度：人民代表大会制度；基本政治制度：
+中国共产党领导的多党合作和政治协商制度、民族区域自治制度、基
+层群众自治制度。
+★考点4：社会主义协商民主是实践全过程人民民主重要形式。
+历年真题
+【简答真题】简述全过程人民民主。
+【参考答案】全过程人民民主是社会主义民主政治的本质属性，是最
+广泛、最真实、最管用的民主，包含民主选举、民主协商、民主决策、
+民主管理、民主监督五大环节。
+第十章 全面依法治国
+【题型】【选择题、简答题】★★★
+★考点1：全面依法治国总目标：建设中国特色社会主义法治体系，
+建设社会主义法治国家。
+★考点2：坚持依法治国、依法执政、依法行政共同推进；坚持法治
+国家、法治政府、法治社会一体建设。
+★考点3：习近平法治思想是全面依法治国根本遵循和行动指南。
+★考点4：坚持党的领导、人民当家作主、依法治国有机统一。
+历年真题
+第 106 页
+
+===== [page 108] =====
+【例题】全面依法治国总目标（）
+A.建设社会主义法治体系，建设社会主义法治国家B.以德治国C.人
+治D.加强专政
+【答案】A
+第十一章 建设社会主义文化强国
+【题型】【选择题、简答题】★★★
+★考点1：意识形态工作是为国家立心、为民族立魂的工作；牢牢掌
+握意识形态工作领导权。
+★考点2：社会主义核心价值观：富强、民主、文明、和谐；自由、
+平等、公正、法治；爱国、敬业、诚信、友善。
+★考点3：弘扬以爱国主义为核心的民族精神和以改革创新为核心的
+时代精神。
+★考点4：坚定文化自信；传承中华优秀传统文化；繁荣发展社会主
+义文化事业和文化产业。
+第十二章 以保障和改善民生为重点加强社会建设
+【题型】【选择题、简答题】★★★
+★考点1：民生是人民幸福之基、社会和谐之本。坚持在发展中保障
+和改善民生。
+★考点2：重点：就业是最大民生；健全社会保障体系；推进健康中
+国建设；完善分配制度。
+★考点3：加强和创新社会治理，建设平安中国；共建共治共享社会
+第 107 页
+
+===== [page 109] =====
+治理制度。
+历年真题
+【例题】最大的民生是（）
+A.教育B.就业C.医疗D.住房
+【答案】B
+第十三章 建设社会主义生态文明
+【题型】【选择题、简答题】★★★
+★考点1：坚持和贯彻绿水青山就是金山银山的理念。坚持尊重自然、
+顺应自然、保护自然。
+★考点2：推动绿色发展，促进人与自然和谐共生。
+★考点3：统筹碳达峰碳中和，持续改善生态环境质量；健全生态制
+度体系。
+第十四章 维护和塑造国家安全
+【题型】【选择题、简答题】★★★
+★考点1：总体国家安全观：坚持国家利益至上，以人民安全为宗旨，
+以政治安全为根本，以经济安全为基础。
+★考点2：统筹发展和安全，发展是安全的基础，安全是发展的保障。
+★考点3：国家安全是民族复兴的根基，社会稳定是国家强盛的前提。
+历年真题
+【例题】总体国家安全观的宗旨是（）
+A.政治安全B.人民安全C.经济安全D.国土安全
+第 108 页
+
+===== [page 110] =====
+【答案】B
+第十五章 建设巩固国防和强大人民军队
+【题型】【选择题、简答题】★★★
+★考点1：党对军队绝对领导是人民军队建军之本、强军之魂。
+★考点2：强军目标：建设一支听党指挥、能打胜仗、作风优良的人
+民军队，把人民军队建设成为世界一流军队。
+★考点3：贯彻政治建军、改革强军、科技强军、人才强军、依法治
+军；坚持富国和强军相统一。
+第十六章 坚持一国两制和推进祖国完全统一
+【题型】【选择题、简答题】★★★
+★考点1：“一国两制”是香港、澳门回归后保持长期繁荣稳定最佳制
+度。落实“爱国者治港”“爱国者治澳”。
+★考点2：一个中国原则是两岸关系政治基础；九二共识核心是一个
+中国原则。
+★考点3：解决台湾问题、实现祖国完全统一，是全体中华儿女共同
+愿望，是中华民族根本利益所在；坚决反对“台独”分裂行径。
+历年真题
+【例题】两岸关系的政治基础（）
+A.和平共处B.一个中国原则C.武力统一D.高度自治
+【答案】B
+第 109 页
+
+===== [page 111] =====
+第十七章 中国特色大国外交和推动构建人类命运共同
+体
+【题型】【选择题、简答题】★★★
+★考点1：我国外交政策：独立自主的和平外交政策；和平共处五项
+原则是我国对外关系基本准则。
+★考点2：构建人类命运共同体核心内涵：建设持久和平、普遍安全、
+共同繁荣、开放包容、清洁美丽的世界。
+★考点3：共建“一带一路”，原则共商共建共享；推动建设新型国际
+关系。
+历年真题
+【简答真题】简述人类命运共同体的核心内涵。
+【参考答案】建设持久和平、普遍安全、共同繁荣、开放包容、清洁
+美丽的世界。
+第十八章 全面从严治党
+【题型】【选择题、简答题、论述题】★★★
+★考点1：全面从严治党是新时代党的自我革命伟大实践；勇于自我
+革命是中国共产党区别于其他政党显著标志。
+★考点2：新时代党的建设总要求；把党的政治建设摆在首位，政治
+建设是党的根本性建设。
+★考点3：思想建设是党的基础性建设；坚定理想信念是共产党人精
+神之钙。
+第 110 页
+
+===== [page 112] =====
+★考点4：制度治党、依规治党；坚持不敢腐、不能腐、不想腐一体
+推进。
+★考点5：健全全面从严治党体系，落实管党治党政治责任。
+历年真题
+【例题】党的根本性建设是（）
+A.思想建设B.政治建设C.组织建设D.作风建设
+【答案】B
+第 111 页

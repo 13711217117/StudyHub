@@ -15,6 +15,13 @@ const routes: RouteRecordRaw[] = [
     meta: { title: '刷题', hideTabbar: true }
   },
   {
+    path: '/subject/:subjectId',
+    name: 'subject',
+    component: () => import('@/views/SubjectView.vue'),
+    // 科目详情（章节分类）：子页面，隐藏底部 Tabbar
+    meta: { title: '科目分类', hideTabbar: true }
+  },
+  {
     path: '/wrong',
     name: 'wrong',
     component: () => import('@/views/WrongBookView.vue'),
