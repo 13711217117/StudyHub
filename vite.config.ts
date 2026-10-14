@@ -9,19 +9,37 @@ export default defineConfig({
     vue(),
     VitePWA({
       registerType: 'autoUpdate',
-      includeAssets: ['favicon.svg'],
+      includeAssets: ['favicon.svg', 'apple-touch-icon.png'],
       manifest: {
         name: 'StudyHub 学习空间',
         short_name: 'StudyHub',
         description: '个人学习空间：刷题、错题本、收藏与间隔重复复习',
-        theme_color: '#0FDC78',
-        background_color: '#f5f7f9',
+        theme_color: '#2f855a',
+        background_color: '#f7f4ee',
         display: 'standalone',
         orientation: 'portrait',
         start_url: '/',
         scope: '/',
         lang: 'zh-CN',
         icons: [
+          {
+            src: 'icons/icon-192.png',
+            sizes: '192x192',
+            type: 'image/png',
+            purpose: 'any'
+          },
+          {
+            src: 'icons/icon-512.png',
+            sizes: '512x512',
+            type: 'image/png',
+            purpose: 'any'
+          },
+          {
+            src: 'icons/maskable-512.png',
+            sizes: '512x512',
+            type: 'image/png',
+            purpose: 'maskable'
+          },
           {
             src: 'favicon.svg',
             sizes: 'any',

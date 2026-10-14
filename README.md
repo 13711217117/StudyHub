@@ -33,9 +33,9 @@ src/
 ├── router/index.ts              # 路由（hash 模式）
 ├── types/index.ts               # 数据模型（Subject / Question / AnswerRecord ...）
 ├── services/repository.ts       # 存储抽象层 + LocalRepository 实现
-├── data/seed.ts                 # 示例题库种子数据（2 科目 / 12 题）
+├── data/seed.ts                 # 题库种子数据（3 科目 / 133 题，2026 成考资料）
 ├── stores/study.ts              # Pinia store：核心业务逻辑 + 统计 + SM-2 复习算法
-├── styles/main.css              # 全局样式（绿色主色 #0FDC78）
+├── styles/main.css              # 全局样式（品牌主色 #2F855A）
 ├── components/
 │   ├── AppTabbar.vue            # 底部导航
 │   └── QuestionCard.vue         # 题目卡片
