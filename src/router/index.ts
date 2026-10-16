@@ -54,6 +54,13 @@ const routes: RouteRecordRaw[] = [
     meta: { title: '统计' }
   },
   {
+    path: '/tips',
+    name: 'tips',
+    component: () => import('@/views/ExamTipsView.vue'),
+    // 考试技巧：子页面，隐藏底部 Tabbar
+    meta: { title: '考试技巧', hideTabbar: true }
+  },
+  {
     path: '/:pathMatch(.*)*',
     redirect: '/'
   }

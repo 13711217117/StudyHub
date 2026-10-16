@@ -84,6 +84,16 @@ function goQuestion(id: string) {
         @click="router.push({ name: 'subject', params: { subjectId: s.id } })"
       />
     </CellGroup>
+
+    <h2 class="section-title">备考助手</h2>
+    <CellGroup inset>
+      <Cell
+        title="考试技巧"
+        label="各科题型分值 · 答题策略 · 高频考点"
+        is-link
+        @click="router.push({ name: 'tips' })"
+      />
+    </CellGroup>
   </div>
 </template>
 
