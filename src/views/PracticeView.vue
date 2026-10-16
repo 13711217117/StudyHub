@@ -93,11 +93,24 @@ function next() {
   }
   store.advance()
 }
+
+/**
+ * 返回上一页
+ * 从底部 Tabbar（replace 方式）进入本页时不会留下历史记录，
+ * 此时 router.back() 无页可退，兜底回到首页。
+ */
+function goBack() {
+  if (router.options.history.state.back) {
+    router.back()
+  } else {
+    router.replace({ name: 'home' })
+  }
+}
 </script>
 
 <template>
   <div class="page page--fullscreen practice">
-    <NavBar :title="`第 ${index + 1}/${total} 题`" left-arrow @click-left="router.back()" />
+    <NavBar :title="`第 ${index + 1}/${total} 题`" left-arrow @click-left="goBack" />
     <Progress :percentage="progress" :show-pivot="false" color="#2f855a" />
 
     <template v-if="current">
