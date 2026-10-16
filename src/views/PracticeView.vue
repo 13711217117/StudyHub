@@ -85,6 +85,14 @@ async function submit() {
   }
 }
 
+function goBack() {
+  if (router.options.history.state.back) {
+    router.back()
+    return
+  }
+  router.replace({ name: 'home' })
+}
+
 function next() {
   if (isLast.value) {
     store.finishSession()
@@ -97,7 +105,7 @@ function next() {
 
 <template>
   <div class="page page--fullscreen practice">
-    <NavBar :title="`第 ${index + 1}/${total} 题`" left-arrow @click-left="router.back()" />
+    <NavBar :title="`第 ${index + 1}/${total} 题`" left-arrow @click-left="goBack" />
     <Progress :percentage="progress" :show-pivot="false" color="#2f855a" />
 
     <template v-if="current">
