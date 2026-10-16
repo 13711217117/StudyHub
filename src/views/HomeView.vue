@@ -88,6 +88,12 @@ function goQuestion(id: string) {
     <h2 class="section-title">备考助手</h2>
     <CellGroup inset>
       <Cell
+        title="背题模式"
+        label="按科目分类 · 选择题 / 作文 / 数学公式闪卡"
+        is-link
+        @click="router.push({ name: 'recite' })"
+      />
+      <Cell
         title="考试技巧"
         label="各科题型分值 · 答题策略 · 高频考点"
         is-link

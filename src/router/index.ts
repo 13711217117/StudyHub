@@ -61,6 +61,13 @@ const routes: RouteRecordRaw[] = [
     meta: { title: '考试技巧', hideTabbar: true }
   },
   {
+    path: '/recite',
+    name: 'recite',
+    component: () => import('@/views/ReciteView.vue'),
+    // 背题模式：子页面，隐藏底部 Tabbar
+    meta: { title: '背题模式', hideTabbar: true }
+  },
+  {
     path: '/:pathMatch(.*)*',
     redirect: '/'
   }
