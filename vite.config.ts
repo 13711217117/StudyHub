@@ -5,6 +5,9 @@ import { VitePWA } from 'vite-plugin-pwa'
 
 // https://vitejs.dev/config/
 export default defineConfig({
+  // 部署到 GitHub Pages 项目页：https://<user>.github.io/StudyHub/
+  // 静态资源与 PWA 作用域都需带上该子路径前缀
+  base: '/StudyHub/',
   plugins: [
     vue(),
     VitePWA({
@@ -18,8 +21,8 @@ export default defineConfig({
         background_color: '#f7f4ee',
         display: 'standalone',
         orientation: 'portrait',
-        start_url: '/',
-        scope: '/',
+        start_url: '/StudyHub/',
+        scope: '/StudyHub/',
         lang: 'zh-CN',
         icons: [
           {
