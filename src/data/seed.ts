@@ -7,7 +7,7 @@ import type { Question, StudyData, Subject } from '@/types'
  * store 启动时会比对本地已存数据的版本，不一致则用最新种子覆盖，
  * 保证「题目会更新，做题记录会在版本升级时重置」。
  */
-export const DATA_VERSION = 2
+export const DATA_VERSION = 3
 
 /** 判断题的固定两个选项 */
 const JUDGE_OPTIONS = [
@@ -2191,6 +2191,268 @@ export const seedQuestions: Question[] = [
     analysis: '人类命运共同体的内涵是持久和平、普遍安全、共同繁荣、开放包容、清洁美丽，四个选项均正确。',
     tags: ['时事政治', '人类命运共同体'],
     difficulty: 2
+  },
+  {
+    id: 'q-pol-065',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '2025 年 7 月在北京举行的全球文明对话部长级会议，其主题是（　）。',
+    options: [
+      { key: 'A', text: '维护人类文明多样性，共促世界和平发展' },
+      { key: 'B', text: '文明冲突与文明融合' },
+      { key: 'C', text: '数智海丝，共迎未来' },
+      { key: 'D', text: '共建「一带一路」，共谋全球发展' }
+    ],
+    answer: ['A'],
+    analysis: '全球文明对话部长级会议（北京）以「维护人类文明多样性，共促世界和平发展」为主题，倡导不同文明平等对话、交流互鉴，反对文明冲突论，推动落实全球文明倡议。',
+    tags: ['时事政治', '全球文明倡议'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-066',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '2025 年 7 月第 47 届世界遗产大会上，我国被列入《世界遗产名录》的项目是（　）。',
+    options: [
+      { key: 'A', text: '西夏陵' },
+      { key: 'B', text: '良渚古城遗址' },
+      { key: 'C', text: '泉州：宋元中国的世界海洋商贸中心' },
+      { key: 'D', text: '北京中轴线' }
+    ],
+    answer: ['A'],
+    analysis: '第 47 届世界遗产大会上，我国西夏陵正式列入《世界遗产名录》。至此，我国世界遗产总数达到 60 项，继续位居世界前列。',
+    tags: ['时事政治', '世界遗产'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-067',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '2025 年 9 月在昆明举行的国家网络安全宣传周，其主题是（　）。',
+    options: [
+      { key: 'A', text: '网络安全为人民，网络安全靠人民——以高水平安全守护高质量发展' },
+      { key: 'B', text: '共建网络安全，共享网络文明' },
+      { key: 'C', text: '网络安全同担，网络生活共享' },
+      { key: 'D', text: '关注网络安全，保护个人信息' }
+    ],
+    answer: ['A'],
+    analysis: '2025 年国家网络安全宣传周（昆明）主题为「网络安全为人民，网络安全靠人民——以高水平安全守护高质量发展」，聚焦关键信息基础设施保护、数据安全、个人信息保护等。',
+    tags: ['时事政治', '网络安全'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-068',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '2025 年 10 月召开的党的二十届四中全会，重点研究并部署的重大任务是（　）。',
+    options: [
+      { key: 'A', text: '「十五五」规划前期重大任务' },
+      { key: 'B', text: '「十四五」规划的收官工作' },
+      { key: 'C', text: '2035 年远景目标的制定' },
+      { key: 'D', text: '全面从严治党的阶段性安排' }
+    ],
+    answer: ['A'],
+    analysis: '党的二十届四中全会重点研究推进中国式现代化、全面深化改革、推进国家治理体系和治理能力现代化，部署「十五五」规划前期重大任务，并对经济、科技、民生、党建等领域作出系统部署。',
+    tags: ['时事政治', '二十届四中全会'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-069',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '2026 年 1 月召开的二十届中央纪委五次全会，把（　）摆在首位。',
+    options: [
+      { key: 'A', text: '强化政治监督' },
+      { key: 'B', text: '作风建设' },
+      { key: 'C', text: '制度建设' },
+      { key: 'D', text: '反腐败斗争' }
+    ],
+    answer: ['A'],
+    analysis: '二十届中央纪委五次全会部署 2026 年纪检监察工作，把强化政治监督摆在首位，保障党中央决策部署落地见效，为「十五五」开好局起好步提供纪律保障。',
+    tags: ['时事政治', '全面从严治党'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-070',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'judge',
+    stem: '2026 年省部级主要领导干部专题研讨班的主题是深入学习贯彻党的二十届四中全会精神。',
+    options: JUDGE_OPTIONS,
+    answer: ['T'],
+    analysis: '2026 年 1 月省部级主要领导干部专题研讨班以深入学习贯彻党的二十届四中全会精神为主题，聚焦奋力实现「十五五」良好开局，统一思想、凝聚共识、狠抓落实。',
+    tags: ['时事政治', '专题研讨班'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-071',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '2026 年政府工作报告设定的年度经济增长预期目标是（　）。',
+    options: [
+      { key: 'A', text: '4.5%—5%' },
+      { key: 'B', text: '5%—5.5%' },
+      { key: 'C', text: '3%—3.5%' },
+      { key: 'D', text: '6% 以上' }
+    ],
+    answer: ['A'],
+    analysis: '2026 年政府工作报告设定年度经济增长预期目标为 4.5%—5%，并以高质量发展为首要任务，大力发展新质生产力。',
+    tags: ['时事政治', '全国两会'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-072',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '「十五五」时期我国经济发展的首要任务是（　）。',
+    options: [
+      { key: 'A', text: '推动高质量发展，大力发展新质生产力' },
+      { key: 'B', text: '扩大出口规模' },
+      { key: 'C', text: '加快城镇化速度' },
+      { key: 'D', text: '扩大固定资产投资' }
+    ],
+    answer: ['A'],
+    analysis: '「十五五」时期以高质量发展为首要任务，大力发展新质生产力，推进科技自立自强，保障和改善民生，深化改革开放，统筹发展和安全。',
+    tags: ['时事政治', '新质生产力'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-073',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '2026 年 4 月第六个全民国家安全教育日的主题是（　）。',
+    options: [
+      { key: 'A', text: '贯彻总体国家安全观，筑牢新安全格局社会基础' },
+      { key: 'B', text: '坚持总体国家安全观，着力防范化解重大风险' },
+      { key: 'C', text: '维护国家安全，人人有责' },
+      { key: 'D', text: '国家安全，关系你我' }
+    ],
+    answer: ['A'],
+    analysis: '2026 年 4 月第六个全民国家安全教育日主题为「贯彻总体国家安全观，筑牢新安全格局社会基础」。',
+    tags: ['时事政治', '国家安全'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-074',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'multiple',
+    stem: '总体国家安全观的核心内涵包括（　）。',
+    options: [
+      { key: 'A', text: '坚持国家利益至上' },
+      { key: 'B', text: '以人民安全为宗旨' },
+      { key: 'C', text: '以政治安全为根本' },
+      { key: 'D', text: '以经济安全为基础' }
+    ],
+    answer: ['A', 'B', 'C', 'D'],
+    analysis: '总体国家安全观核心内涵：坚持国家利益至上，以人民安全为宗旨，以政治安全为根本，以经济安全为基础。四个选项均正确。',
+    tags: ['时事政治', '总体国家安全观'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-075',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '2026 年 5 月全国科技活动周的主题是（　）。',
+    options: [
+      { key: 'A', text: '科技赋能中国式现代化' },
+      { key: 'B', text: '走进科技，你我同行' },
+      { key: 'C', text: '科技自立自强，创新驱动发展' },
+      { key: 'D', text: '弘扬科学家精神，激发创新活力' }
+    ],
+    answer: ['A'],
+    analysis: '2026 年全国科技活动周主题为「科技赋能中国式现代化」，突出高水平科技自立自强，展示新质生产力发展成果，普及科学知识。',
+    tags: ['时事政治', '科技自立自强'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-076',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'multiple',
+    stem: '2026 年 6 月国务院常务会议审议通过的专项规划包括（　）。',
+    options: [
+      { key: 'A', text: '《「十五五」碳达峰行动方案》' },
+      { key: 'B', text: '《国民健康「十五五」规划》' },
+      { key: 'C', text: '《教育发展「十五五」规划》' },
+      { key: 'D', text: '《「十五五」科技创新规划》' }
+    ],
+    answer: ['A', 'B'],
+    analysis: '2026 年 6 月国务院常务会议审议通过《「十五五」碳达峰行动方案》《国民健康「十五五」规划》，并研究部署人工智能产业发展、贸易强国建设、民生保障等重点工作。《教育发展「十五五」规划》属于同期重要政策文件。',
+    tags: ['时事政治', '专项规划'],
+    difficulty: 3
+  },
+  {
+    id: 'q-pol-077',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '《退役军人就业创业促进条例》自（　）起施行，坚持普惠与优待叠加原则。',
+    options: [
+      { key: 'A', text: '2026 年 8 月 1 日' },
+      { key: 'B', text: '2026 年 1 月 1 日' },
+      { key: 'C', text: '2026 年 10 月 1 日' },
+      { key: 'D', text: '2027 年 1 月 1 日' }
+    ],
+    answer: ['A'],
+    analysis: '《退役军人就业创业促进条例》自 2026 年 8 月 1 日起施行，坚持普惠与优待叠加原则。',
+    tags: ['时事政治', '政策文件'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-078',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '2025 年 7 月在福建泉州举行的世界互联网大会数字丝路发展论坛，其主题是（　）。',
+    options: [
+      { key: 'A', text: '数智海丝，共迎未来——携手构建网络空间命运共同体' },
+      { key: 'B', text: '维护人类文明多样性，共促世界和平发展' },
+      { key: 'C', text: '共建网络世界，共创数字未来' },
+      { key: 'D', text: '互联互通，共享共治' }
+    ],
+    answer: ['A'],
+    analysis: '世界互联网大会数字丝路发展论坛（福建泉州）以「数智海丝，共迎未来——携手构建网络空间命运共同体」为主题，推动「一带一路」数字领域合作，助力数字丝绸之路建设。',
+    tags: ['时事政治', '数字丝路'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-079',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'single',
+    stem: '2026 年 2 月第 25 届冬季奥林匹克运动会的举办地是（　）。',
+    options: [
+      { key: 'A', text: '意大利米兰-科尔蒂纳丹佩佐' },
+      { key: 'B', text: '法国巴黎' },
+      { key: 'C', text: '美国洛杉矶' },
+      { key: 'D', text: '日本札幌' }
+    ],
+    answer: ['A'],
+    analysis: '第 25 届冬季奥林匹克运动会在意大利米兰-科尔蒂纳丹佩佐举行，中国代表团取得境外冬奥会历史最好成绩。',
+    tags: ['时事政治', '冬奥会'],
+    difficulty: 2
+  },
+  {
+    id: 'q-pol-080',
+    subjectId: 'sub-pol',
+    chapter: '时事政治',
+    type: 'judge',
+    stem: '在第 25 届冬奥会上，中国代表团取得了境外冬奥会历史最好成绩。',
+    options: JUDGE_OPTIONS,
+    answer: ['T'],
+    analysis: '第 25 届冬奥会（意大利米兰-科尔蒂纳丹佩佐）上，中国代表团取得境外冬奥会历史最好成绩，展现中国体育实力，促进中外体育文化交流。',
+    tags: ['时事政治', '冬奥会'],
+    difficulty: 1
   }
 ]
 
