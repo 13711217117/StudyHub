@@ -33,6 +33,18 @@ const current = computed<Question | null>(() => store.currentQuestion)
 const progress = computed(() => (total.value ? ((index.value + (submitted.value ? 1 : 0)) / total.value) * 100 : 0))
 const isLast = computed(() => index.value >= total.value - 1)
 
+/** 题型标识，避免用户不清楚该单选还是多选 */
+const typeLabel = computed(() => {
+  switch (current.value?.type) {
+    case 'single':
+      return '单选题'
+    case 'multiple':
+      return '多选题 · 可多选'
+    default:
+      return '判断题'
+  }
+})
+
 function resetLocal() {
   singleVal.value = ''
   multiVal.value = []
@@ -110,6 +122,7 @@ function next() {
 
     <template v-if="current">
       <div class="qbody">
+        <div class="qtype" :class="`qtype--${current.type}`">{{ typeLabel }}</div>
         <p class="qstem">{{ current.stem }}</p>
 
         <RadioGroup v-if="!isMulti" v-model="singleVal" :disabled="submitted" class="opts">
@@ -183,6 +196,28 @@ function next() {
 .qbody {
   flex: 1;
   margin-top: 16px;
+}
+
+.qtype {
+  display: inline-block;
+  margin-bottom: 10px;
+  padding: 2px 10px;
+  border-radius: 999px;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 1.6;
+  color: var(--brand-color-dark);
+  background: var(--brand-color-light);
+}
+
+.qtype--multiple {
+  color: #9a6b2f;
+  background: #fbf3e3;
+}
+
+.qtype--judge {
+  color: #4f7099;
+  background: #eef3f9;
 }
 
 .qstem {
